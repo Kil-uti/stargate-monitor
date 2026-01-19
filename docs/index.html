@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>⚡ Energy-AI Monitor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body { font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif; margin: 0; background:#f6f7fb; }
+    .wrap { max-width: 1200px; margin: 24px auto; padding: 0 16px; }
+    .card { background: #fff; border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,.08); padding: 18px; }
+    h1 { margin: 0 0 6px; font-size: 26px; }
+    .sub { color:#667; margin-bottom: 14px; }
+    .row { display:flex; gap:12px; flex-wrap: wrap; align-items:center; }
+    .pill { padding: 10px 12px; border-radius: 999px; background:#eef; font-weight:600; cursor:pointer; user-select:none; }
+    .pill.active { background:#2d4cff; color:#fff; }
+    input { flex:1; min-width: 260px; padding: 10px 12px; border-radius: 10px; border:1px solid #dde; }
+    button { padding: 10px 12px; border-radius: 10px; border:0; background:#2d4cff; color:#fff; font-weight:700; cursor:pointer; }
+    table { width:100%; border-collapse: collapse; margin-top: 14px; }
+    th, td { text-align:left; padding: 12px; border-bottom:1px solid #eee; vertical-align: top; }
+    th { position: sticky; top:0; background:#fff; z-index: 1; }
+    .tag { display:inline-block; padding: 3px 8px; border-radius: 8px; background:#f0f2f8; font-size: 12px; font-weight:700; color:#334; }
+    .ok { color:#0a7; font-weight:800; }
+    .no { color:#d33; font-weight:800; }
+    .muted { color:#667; font-size: 13px; }
+    a { color:#2d4cff; text-decoration:none; font-weight:700; }
+    a:hover { text-decoration: underline; }
+    .stats { display:flex; gap:12px; flex-wrap:wrap; margin: 10px 0 0; }
+    .stat { background:#f7f8ff; border:1px solid #eef; border-radius: 12px; padding: 10px 12px; }
+    .stat b { font-size: 18px; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="card">
+      <h1>⚡ Energy-AI Infrastructure Monitor</h1>
+      <div class="sub">Landing page shows <b>Relevant</b> only. Switch tabs for <b>All</b>. Data auto-updates at 6am & 6pm Eastern Time.</div>
+
+      <div class="row">
+        <div id="tabRelevant" class="pill active">✅ Relevant</div>
+        <div id="tabAll" class="pill">📦 All</div>
+
+        <input id="search" placeholder="Search title/source/keywords…" />
+        <button id="download">Download latest CSV</button>
+      </div>
+
+      <div class="stats">
+        <div class="stat"><div class="muted">Total</div><b id="stTotal">—</b></div>
+        <div class="stat"><div class="muted">Relevant</div><b id="stRel">—</b></div>
+        <div class="stat"><div class="muted">Showing</div><b id="stShow">—</b></div>
+        <div class="stat"><div class="muted">Last update (ET)</div><b id="stTime">—</b></div>
+      </div>
+
+      <div class="muted" id="status" style="margin-top:12px;">Loading…</div>
+
+      <table id="tbl" style="display:none;">
+        <thead>
+          <tr>
+            <th style="width: 18%;">Source</th>
+            <th style="width: 52%;">Title & Summary</th>
+            <th style="width: 15%;">Published</th>
+            <th style="width: 15%;">Status</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+
+<script>
+  let MODE = "relevant"; // "relevant" or "all"
+  let ARTICLES = [];
+
+  const el = (id) => document.getElementById(id);
+
+  function isTrue(v) {
+    return String(v).trim().toLowerCase() === "true";
+  }
+
+  function setMode(mode) {
+    MODE = mode;
+    el("tabRelevant").classList.toggle("active", MODE === "relevant");
+    el("tabAll").classList.toggle("active", MODE === "all");
+    render();
+  }
+
+  function render() {
+    const q = el("search").value.toLowerCase().trim();
+    let rows = ARTICLES.slice();
+
+    if (MODE === "relevant") rows = rows.filter(a => isTrue(a.relevant));
+
+    if (q) {
+      rows = rows.filter(a => (
+        (a.title || "").toLowerCase().includes(q) ||
+        (a.source || "").toLowerCase().includes(q) ||
+        (a.summary || "").toLowerCase().includes(q) ||
+        (a.reason || "").toLowerCase().includes(q)
+      ));
+    }
+
+    el("stShow").textContent = rows.length;
+
+    const tbody = el("tbl").querySelector("tbody");
+    tbody.innerHTML = "";
+
+    for (const a of rows) {
+      const tr = document.createElement("tr");
+      const ok = isTrue(a.relevant);
+
+      tr.innerHTML = `
+        <td><span class="tag">${a.source || ""}</span></td>
+        <td>
+          <div style="margin-bottom:6px;">
+            <a href="${a.link || "#"}" target="_blank" rel="noopener">${a.title || "No title"}</a>
+          </div>
+          <div class="muted">${a.summary || ""}</div>
+        </td>
+        <td class="muted">${a.published || ""}</td>
+        <td>
+          <div class="${ok ? "ok" : "no"}">${ok ? "✅ Relevant" : "❌ Filtered"}</div>
+          <div class="muted">${a.reason || ""}</div>
+        </td>
+      `;
+      tbody.appendChild(tr);
+    }
+
+    el("status").textContent = rows.length ? "" : "No results for this view/search.";
+    el("tbl").style.display = "table";
+  }
+
+  async function load() {
+    try {
+      const res = await fetch("./data.json", { cache: "no-store" });
+      if (!res.ok) throw new Error("No data.json yet.");
+      const data = await res.json();
+
+      ARTICLES = data.articles || [];
+      el("stTotal").textContent = data.total ?? ARTICLES.length;
+      el("stRel").textContent = data.relevant ?? ARTICLES.filter(a => isTrue(a.relevant)).length;
+      el("stTime").textContent = (data.generated_at_et || "—").replace("T", " ").slice(0, 19);
+
+      render();
+      el("status").textContent = "";
+    } catch (e) {
+      el("status").textContent = "No data yet. Run the GitHub Action once, then refresh.";
+    }
+  }
+
+  el("tabRelevant").onclick = () => setMode("relevant");
+  el("tabAll").onclick = () => setMode("all");
+  el("search").addEventListener("input", render);
+  el("download").onclick = () => { window.location.href = "./latest.csv"; };
+
+  load();
+  setInterval(load, 300000); // refresh every 5 minutes
+</script>
+</body>
+</html>
