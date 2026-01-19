@@ -15,6 +15,7 @@ import os
 import re
 from datetime import datetime, timezone
 from typing import Dict, List, Tuple
+from zoneinfo import ZoneInfo
 
 import feedparser
 import requests
@@ -179,13 +180,17 @@ def main():
     relevant_count = sum(1 for a in articles if a.get("relevant"))
     filtered = total - relevant_count
 
+    # Generate timestamps in both UTC and Eastern Time
     now_utc = datetime.now(timezone.utc)
+    now_et = datetime.now(ZoneInfo("America/New_York"))
     ts = now_utc.strftime("%Y%m%d_%H%M%S")
+    
     archive_csv = os.path.join(ARCHIVE_DIR, f"articles_{ts}.csv")
     archive_json = os.path.join(ARCHIVE_DIR, f"articles_{ts}.json")
 
     payload = {
         "generated_utc": now_utc.isoformat(),
+        "generated_at_et": now_et.isoformat(),  # ← ADDED for index.html
         "total": total,
         "relevant": relevant_count,
         "filtered": filtered,
