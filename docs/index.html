@@ -130,7 +130,8 @@
 
   async function load() {
     try {
-      const res = await fetch("./data.json", { cache: "no-store" });
+      const res = await fetch("./data/articles_latest.json", { cache: "no-store" });
+
       if (!res.ok) throw new Error("No data.json yet.");
       const data = await res.json();
 
@@ -149,7 +150,8 @@
   el("tabRelevant").onclick = () => setMode("relevant");
   el("tabAll").onclick = () => setMode("all");
   el("search").addEventListener("input", render);
-  el("download").onclick = () => { window.location.href = "./latest.csv"; };
+  el("download").onclick = () => { window.location.href = "./data/articles_latest.csv"; };
+
 
   load();
   setInterval(load, 300000); // refresh every 5 minutes
