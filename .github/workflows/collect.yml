@@ -9,7 +9,7 @@ on:
         default: "false"
   schedule:
     # GitHub cron is UTC; we run hourly and gate on America/New_York in code (handles DST automatically)
-    - cron: "5 * * * *"
+    - cron: "0 * * * *"
 
 permissions:
   contents: write
