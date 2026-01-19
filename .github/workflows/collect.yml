@@ -1,14 +1,15 @@
-name: Collect Energy-AI News (ET)
+name: Collect Energy-AI News (Eastern)
 
 on:
-  workflow_dispatch: {}
-  # GitHub cron is UTC. We trigger at both possible UTC times and then "gate"
-  # the run to only proceed when it's 06:00 or 18:00 in America/New_York.
+  workflow_dispatch:
+    inputs:
+      force_run:
+        description: "Run now (ignore the 6am/6pm Eastern gate)"
+        required: false
+        default: "false"
   schedule:
-    - cron: "0 10 * * *"  # 06:00 EDT (UTC-4)
-    - cron: "0 11 * * *"  # 06:00 EST (UTC-5)
-    - cron: "0 22 * * *"  # 18:00 EDT (UTC-4)
-    - cron: "0 23 * * *"  # 18:00 EST (UTC-5)
+    # GitHub cron is UTC; we run hourly and gate on America/New_York in code (handles DST automatically)
+    - cron: "5 * * * *"
 
 permissions:
   contents: write
@@ -21,7 +22,7 @@ jobs:
   collect:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -37,80 +38,44 @@ jobs:
       - name: Decide whether to run now (America/New_York)
         id: gate
         run: |
-          SHOULD_RUN=$(python - <<'PY'
-from datetime import datetime
-from zoneinfo import ZoneInfo
-
-now = datetime.now(ZoneInfo("America/New_York"))
-print("true" if now.hour in (6, 18) else "false")
-PY
-          )
-          echo "should_run=$SHOULD_RUN" >> "$GITHUB_OUTPUT"
-
           python - <<'PY'
-from datetime import datetime
-from zoneinfo import ZoneInfo
-print("NY time:", datetime.now(ZoneInfo("America/New_York")).isoformat())
-PY
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+          import os
+
+          force = (os.environ.get("FORCE_RUN", "false").lower() == "true")
+          now = datetime.now(ZoneInfo("America/New_York"))
+
+          # Run at 06:xx and 18:xx New York time
+          run_now = force or (now.hour in (6, 18))
+
+          print("Eastern time now:", now.isoformat())
+          print("force_run:", force)
+          print("run_now:", run_now)
+
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"run_now={'true' if run_now else 'false'}\n")
+          PY
+        env:
+          FORCE_RUN: ${{ github.event.inputs.force_run }}
 
       - name: Run collector
-        if: steps.gate.outputs.should_run == 'true'
+        if: steps.gate.outputs.run_now == 'true'
         run: |
           python mini_prototype.py
 
-          mkdir -p data/archive docs
-
-          LATEST=$(ls -t articles_*.csv | head -n 1)
-
-          # Keep an archive copy and also keep a stable "latest.csv"
-          cp "$LATEST" data/latest.csv
-          mv "$LATEST" "data/archive/$LATEST"
-
-          # Copy latest into docs so GitHub Pages can download it
-          cp data/latest.csv docs/latest.csv
-
-      - name: Build JSON for online dashboard
-        if: steps.gate.outputs.should_run == 'true'
-        run: |
-          python - <<'PY'
-import csv, json
-from datetime import datetime, timezone
-from zoneinfo import ZoneInfo
-from pathlib import Path
-
-p = Path("data/latest.csv")
-rows = []
-with p.open("r", encoding="utf-8") as f:
-    rows = list(csv.DictReader(f))
-
-def is_true(v):
-    return str(v).strip().lower() in ("true", "1", "yes")
-
-out = {
-    "generated_at_utc": datetime.now(timezone.utc).isoformat(),
-    "generated_at_et": datetime.now(ZoneInfo("America/New_York")).isoformat(),
-    "total": len(rows),
-    "relevant": sum(1 for r in rows if is_true(r.get("relevant"))),
-    "articles": rows
-}
-
-Path("docs").mkdir(exist_ok=True)
-Path("docs/data.json").write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
-print("Wrote docs/data.json with", len(rows), "rows")
-PY
-
-      - name: Commit & push results
-        if: steps.gate.outputs.should_run == 'true'
+      - name: Commit & push results (docs/data)
+        if: steps.gate.outputs.run_now == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add data/latest.csv data/archive/*.csv docs/data.json docs/latest.csv || true
-          git status
+          git add docs/data || true
 
-          git commit -m "Auto-collect $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update collected articles"
           git push
-
-      - name: Skip note
-        if: steps.gate.outputs.should_run != 'true'
-        run: echo "Not 06:00/18:00 in America/New_York right now; skipping."
