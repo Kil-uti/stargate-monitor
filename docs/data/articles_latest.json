@@ -1,10 +1,118 @@
 {
-  "generated_utc": "2026-10-15T22:01:11.941479+00:00",
-  "generated_at_et": "2026-10-15T18:01:11.941629-04:00",
+  "generated_utc": "2026-10-17T22:04:26.314610+00:00",
+  "generated_at_et": "2026-10-17T18:04:26.314769-04:00",
   "total": 70,
-  "relevant": 20,
-  "filtered": 50,
+  "relevant": 23,
+  "filtered": 47,
   "articles": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "published": "Sat, 17 Oct 2026 21:31:32 +0000",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "published": "Sat, 17 Oct 2026 20:21:19 +0000",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "published": "Sat, 17 Oct 2026 18:48:08 +0000",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "published": "Fri, 16 Oct 2026 17:52:24 +0000",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "published": "Fri, 16 Oct 2026 16:30:00 +0000",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "published": "Fri, 16 Oct 2026 16:30:00 +0000",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "published": "Fri, 16 Oct 2026 16:01:37 +0000",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "published": "Fri, 16 Oct 2026 15:33:49 +0000",
+      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "published": "Fri, 16 Oct 2026 14:26:51 +0000",
+      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "published": "Fri, 16 Oct 2026 14:00:00 +0000",
+      "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "published": "Fri, 16 Oct 2026 12:55:09 +0000",
+      "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "published": "Thu, 15 Oct 2026 23:44:56 +0000",
+      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Meta launches an open-weight AI model that runs on Macs",
@@ -78,290 +186,191 @@
       "reason": "No relevant keywords"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "published": "Thu, 15 Oct 2026 12:00:00 +0000",
-      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Figma announces new features to define how agents work on its platform",
-      "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "published": "Thu, 15 Oct 2026 04:30:00 +0000",
-      "summary": "Figma is also releasing its code layers feature in open beta.",
-      "relevant": "False",
-      "reason": "Filtered: defi"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "published": "Thu, 15 Oct 2026 01:01:32 +0000",
-      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-      "published": "Thu, 15 Oct 2026 00:00:00 +0000",
-      "summary": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-      "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-      "published": "Wed, 14 Oct 2026 21:30:33 +0000",
-      "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-      "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-      "published": "Wed, 14 Oct 2026 18:23:46 +0000",
-      "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-      "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-      "published": "Wed, 14 Oct 2026 18:00:00 +0000",
-      "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Deezer will soon let you filter out AI-generated music",
-      "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-      "published": "Wed, 14 Oct 2026 15:16:04 +0000",
-      "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-      "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-      "published": "Wed, 14 Oct 2026 15:13:24 +0000",
-      "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-      "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-      "published": "Wed, 14 Oct 2026 15:08:00 +0000",
-      "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "published": "Wed, 14 Oct 2026 15:00:00 +0000",
-      "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "TechCrunch Disrupt 2026: Day 2",
-      "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-      "published": "Wed, 14 Oct 2026 14:30:00 +0000",
-      "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
       "source": "Data Center Dynamics",
-      "title": "IonQ opens quantum innovation center at University of Cambridge",
-      "link": "https://www.datacenterdynamics.com/en/news/ionq-opens-quantum-innovation-center-at-university-of-cambridge/",
-      "published": "Thu, 15 Oct 2026 16:20:30 +0000",
-      "summary": "Quantum firm will deploy a Superion 256 system at the center",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "DigiCo signs 71MW lease for Sydney data center with unnamed tech firm",
-      "link": "https://www.datacenterdynamics.com/en/news/digico-signs-71mw-lease-for-sydney-data-center-with-unnamed-tech-firm/",
-      "published": "Thu, 15 Oct 2026 16:20:29 +0000",
-      "summary": "Deal includes reallocation of 20MW of existing contracted capacity",
+      "title": "Sponsored: The hidden costs: Why data center sustainability fails without operational discipline",
+      "link": "https://www.datacenterdynamics.com/en/opinions/the-hidden-costs-why-data-center-sustainability-fails-without-operational-discipline/",
+      "published": "Sat, 17 Oct 2026 15:00:00 +0000",
+      "summary": "How prioritizing the small things with sustained investment and follow-through can help to pave the way to achieving true data center sustainability goals",
       "relevant": "True",
       "reason": "Infrastructure mention"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "NTT deploys Nvidia GPU test cluster at Munich 2 data center",
-      "link": "https://www.datacenterdynamics.com/en/news/ntt-deploys-nvidia-gpu-test-cluster-at-munich-2-data-center/",
-      "published": "Thu, 15 Oct 2026 16:17:14 +0000",
-      "summary": "Allows customers to test AI applications on Nvidia Blackwell hardware",
-      "relevant": "True",
-      "reason": "Infrastructure mention"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "D-Wave delivers Advantage2 quantum computer to Italy",
-      "link": "https://www.datacenterdynamics.com/en/news/d-wave-delivers-advantage2-quantum-computer-to-italy/",
-      "published": "Thu, 15 Oct 2026 16:00:38 +0000",
-      "summary": "System has been funded by SQT and will support the region's quantum computing ambitions",
+      "title": "Google's EMEA energy team hiring for range of new positions",
+      "link": "https://www.datacenterdynamics.com/en/news/googles-emea-energy-team-hiring-for-range-of-new-positions/",
+      "published": "Sat, 17 Oct 2026 10:00:25 +0000",
+      "summary": "Further opportunities in the energy space at Google",
       "relevant": "False",
       "reason": "No relevant keywords"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Ensuring uptime, insuring downtime",
-      "link": "https://www.datacenterdynamics.com/en/analysis/ensuring-uptime-insuring-downtime/",
-      "published": "Thu, 15 Oct 2026 16:00:37 +0000",
-      "summary": "Can the insurance industry keep up with data center growth?",
-      "relevant": "True",
-      "reason": "Infrastructure mention"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "DCD Studio: A year of data center development with Matthew Baynes, Schneider Electric",
-      "link": "https://www.datacenterdynamics.com/en/videos/dcd-studio-a-year-of-data-center-development-with-matthew-baynes-schneider-electric/",
-      "published": "Thu, 15 Oct 2026 15:57:26 +0000",
-      "summary": "Seb Moss speaks with Matthew Baynes of Schneider Electric about adapting to AI-driven GPU growth through modular construction, liquid cooling, future-proof designs, and sustainable grid innovations.",
-      "relevant": "True",
-      "reason": "Infrastructure mention"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "DCD Studio: Filtering diesel generators for cleaner air with Senna Nijs, Multronic",
-      "link": "https://www.datacenterdynamics.com/en/videos/dcd-studio-filtering-diesel-generators-for-cleaner-air-with-senna-nijs-multronic/",
-      "published": "Thu, 15 Oct 2026 15:42:29 +0000",
-      "summary": "Seb Moss joins Senna Nijs of Multronic to discuss advanced emissions after-treatment for data center diesel generators, including SCR, DPF and DOC technologies that reduce pollutants and support regulatory compliance",
-      "relevant": "True",
-      "reason": "Infrastructure mention"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Scaleway launches two availability zones for Italy cloud region",
-      "link": "https://www.datacenterdynamics.com/en/news/scaleway-launches-two-availability-zones-for-italy-cloud-region/",
-      "published": "Thu, 15 Oct 2026 15:30:36 +0000",
-      "summary": "Brings total to three AZs",
+      "title": "Why data sovereignty is about control, not geography",
+      "link": "https://www.datacenterdynamics.com/en/opinions/why-data-sovereignty-is-about-control-not-geography/",
+      "published": "Sat, 17 Oct 2026 10:00:25 +0000",
+      "summary": "The gap between residency and sovereignty is where most organizations get into trouble.",
       "relevant": "False",
       "reason": "No relevant keywords"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "The intelligent power distribution layer",
-      "link": "https://www.datacenterdynamics.com/en/whitepapers/the-intelligent-power-distribution-layer/",
-      "published": "Thu, 15 Oct 2026 15:29:31 +0000",
-      "summary": "Why modular data centres need digitised assets and predictive maintenance to support future power demand",
+      "title": "Plans for data center in Moncalieri, Italy, put on hold by town mayor",
+      "link": "https://www.datacenterdynamics.com/en/news/plans-for-data-center-in-moncalieri-italy-put-on-hold-by-town-mayor/",
+      "published": "Sat, 17 Oct 2026 09:00:36 +0000",
+      "summary": "Before its application was halted, the project was billed as Italy’s ‘largest’ data center",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Everton Football Club launches MVNO service",
+      "link": "https://www.datacenterdynamics.com/en/news/everton-football-club-launches-mvno-service/",
+      "published": "Sat, 17 Oct 2026 08:00:26 +0000",
+      "summary": "The English football club has phoned it in",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "DCN Warsaw 2026: Poland deserves a greater share of global data center capacity",
+      "link": "https://www.datacenterdynamics.com/en/analysis/dcn-warsaw-2026-poland-deserves-a-greater-share-of-global-data-center-capacity/",
+      "published": "Fri, 16 Oct 2026 16:19:59 +0000",
+      "summary": "Poland’s changing energy story means its well placed to benefit from the global data center boom",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Google's DeepMind hiring for nuclear expert",
+      "link": "https://www.datacenterdynamics.com/en/news/googles-deepmind-hiring-for-nuclear-expert/",
+      "published": "Fri, 16 Oct 2026 16:01:15 +0000",
+      "summary": "Will be responsible for evaluating and mitigating the safety risks of frontier AI models in the nuclear domain",
       "relevant": "True",
       "reason": "AI + Energy nexus"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Digital Realty tops out second data center in Seoul, South Korea",
-      "link": "https://www.datacenterdynamics.com/en/news/digital-realty-tops-out-second-data-center-in-seoul-south-korea/",
-      "published": "Thu, 15 Oct 2026 15:19:16 +0000",
-      "summary": "Facility was first announced in 2021",
-      "relevant": "True",
-      "reason": "Infrastructure mention"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Pause in US data center construction could lead to recession, BlackRock CEO warns",
-      "link": "https://www.datacenterdynamics.com/en/news/pause-in-us-data-center-construction-could-lead-to-recession-blackrock-ceo-warns/",
-      "published": "Thu, 15 Oct 2026 15:16:00 +0000",
-      "summary": "Slowed buildout could turn massive investment into a massive crash",
-      "relevant": "True",
-      "reason": "Infrastructure mention"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Colt DCS and RMZ start work on third facility at Mumbai campus, India",
-      "link": "https://www.datacenterdynamics.com/en/news/colt-dcs-and-rmz-start-work-on-third-facility-at-mumbai-campus-india/",
-      "published": "Thu, 15 Oct 2026 15:15:26 +0000",
-      "summary": "Work starts on 64MW facility after securing lease with hyperscaler",
+      "title": "Elisa to switch off Estonian 2G network in 2028",
+      "link": "https://www.datacenterdynamics.com/en/news/elisa-to-switch-off-estonian-2g-network-in-2028/",
+      "published": "Fri, 16 Oct 2026 15:49:58 +0000",
+      "summary": "As the carrier favors 4G and 5G instead",
       "relevant": "False",
       "reason": "No relevant keywords"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Meta named as company behind 3,000 acre data center project in Mason County, Kentucky",
-      "link": "https://www.datacenterdynamics.com/en/news/meta-named-as-company-behind-3000-acre-data-center-project-in-mason-county-kentucky/",
-      "published": "Thu, 15 Oct 2026 15:02:00 +0000",
-      "summary": "Will receive a 40-year tax break on property taxes",
+      "title": "Stranded natural gas could power offshore data centers",
+      "link": "https://www.datacenterdynamics.com/en/news/stranded-natural-gas-could-power-offshore-data-centers/",
+      "published": "Fri, 16 Oct 2026 15:10:28 +0000",
+      "summary": "Houston, Texas, firms form new partnership to put compute at sea",
       "relevant": "True",
       "reason": "Infrastructure mention"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Two workers killed, third injured, in explosion at Intel’s Kiryat Gat fab in Israel",
-      "link": "https://www.datacenterdynamics.com/en/news/two-workers-killed-third-injured-in-explosion-at-intels-kiryat-gat-fab-in-israel/",
-      "published": "Thu, 15 Oct 2026 15:01:23 +0000",
-      "summary": "Company says it is cooperating with authorities on investigation into incident",
+      "title": "Optical switching startup Salience Labs raises $125m with AMD and Intel participating in round",
+      "link": "https://www.datacenterdynamics.com/en/news/optical-switching-startup-salience-labs-raises-125m-with-amd-and-intel-participating-in-round/",
+      "published": "Fri, 16 Oct 2026 15:03:05 +0000",
+      "summary": "Series B raise will support continued development and deployment of optical circuit switching technology",
       "relevant": "False",
       "reason": "No relevant keywords"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Sponsored: Scale-across is a boundary, not a distance",
-      "link": "https://www.datacenterdynamics.com/en/opinions/scale-across-is-a-boundary-not-a-distance/",
-      "published": "Thu, 15 Oct 2026 15:00:00 +0000",
-      "summary": "The industry will settle on a definition, and should choose one that still works in 2030",
-      "relevant": "False",
-      "reason": "Filtered: defi"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Greece drafts legislation requiring data centers source 60% of power from renewables",
-      "link": "https://www.datacenterdynamics.com/en/news/greece-drafts-legislation-requiring-data-centers-source-60-of-power-from-renewables/",
-      "published": "Thu, 15 Oct 2026 14:39:20 +0000",
-      "summary": "Also proposes the creation of a data center registry",
+      "title": "Meeza and Microsoft launch sovereign private cloud in Qatar",
+      "link": "https://www.datacenterdynamics.com/en/news/meeza-and-microsoft-launch-sovereign-private-cloud-in-qatar/",
+      "published": "Fri, 16 Oct 2026 15:00:43 +0000",
+      "summary": "Using Azure Local hosted in Meeza's data centers",
       "relevant": "True",
       "reason": "Infrastructure mention"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "The Energy & Sustainability Supplement",
-      "link": "https://www.datacenterdynamics.com/en/magazines/the-energy-sustainability-supplement-2026/",
-      "published": "Thu, 15 Oct 2026 14:28:26 +0000",
-      "summary": "A sustainable future for data centers",
+      "title": "LightEdge eyes data center project outside Des Moines, Iowa",
+      "link": "https://www.datacenterdynamics.com/en/news/lightedge-eyes-data-center-project-outside-des-moines-iowa/",
+      "published": "Fri, 16 Oct 2026 14:40:41 +0000",
+      "summary": "Company looks to buy ten acres in Boone for project in home state",
       "relevant": "True",
       "reason": "Infrastructure mention"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Nvidia joins The Earthshot Prize as new founding member",
-      "link": "https://www.datacenterdynamics.com/en/news/nvidia-joins-the-earthshot-prize-as-new-founding-member/",
-      "published": "Thu, 15 Oct 2026 14:10:24 +0000",
-      "summary": "Will provide finalists with resources and compute to scale technology",
+      "title": "SpaceX’s Starlink encourages every satellite operator to share data with Stargaze platform, for safety",
+      "link": "https://www.datacenterdynamics.com/en/news/spacexs-starlink-encourages-every-satellite-operator-to-share-data-with-stargaze-platform-for-safety/",
+      "published": "Fri, 16 Oct 2026 14:39:46 +0000",
+      "summary": "Musk company proposes international cooperation on satellite tracking in a one-way street relationship with SpaceX",
       "relevant": "False",
       "reason": "No relevant keywords"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Sponsored: nVent and AMD collaborate on cooling for AMD Helios rackscale solution",
-      "link": "https://www.datacenterdynamics.com/en/product-news/nvent-and-amd-collaborate-on-cooling-for-amd-helios-rackscale-solution/",
-      "published": "Thu, 15 Oct 2026 14:00:00 +0000",
-      "summary": "nVent will add liquid and air cooling solution to AMD rack-scale AI platform to create a fully integrated system for large AI workloads",
+      "title": "India's Odisha gov't approves $18.62m data center project",
+      "link": "https://www.datacenterdynamics.com/en/news/indias-odisha-govt-approves-1862m-data-center-project/",
+      "published": "Fri, 16 Oct 2026 14:30:48 +0000",
+      "summary": "Will serve as a disaster recovery data center",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "UK council launches heat network feasibility study for proposed data centers near Didcot Power Station in Oxfordshire",
+      "link": "https://www.datacenterdynamics.com/en/news/uk-council-launches-heat-network-feasibility-study-for-proposed-data-centers-near-didcot-power-station-in-oxfordshire/",
+      "published": "Fri, 16 Oct 2026 14:24:29 +0000",
+      "summary": "Will be undertaken by Nordic Energy, with results published in March of next year",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Nscale's Glomfjord data center delayed, site suffers leaks in cooling system and a fire",
+      "link": "https://www.datacenterdynamics.com/en/news/nscales-glomfjord-data-center-delayed-site-suffers-leaks-in-cooling-system-and-a-fire/",
+      "published": "Fri, 16 Oct 2026 14:18:00 +0000",
+      "summary": "Company is shortly planning its IPO",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Vietnam's CMC and Korea's Lotte partner to develop data centers",
+      "link": "https://www.datacenterdynamics.com/en/news/vietnams-cmc-and-koreas-lotte-partner-to-develop-data-centers/",
+      "published": "Fri, 16 Oct 2026 14:00:48 +0000",
+      "summary": "Companies sign MoU to collaborate on data center projects",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Silicon is the easy part",
+      "link": "https://www.datacenterdynamics.com/en/opinions/silicon-is-the-easy-part/",
+      "published": "Fri, 16 Oct 2026 13:58:29 +0000",
+      "summary": "But where does it fit in when it comes to inference at the Edge?",
       "relevant": "False",
       "reason": "No relevant keywords"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Oracle renews attempts to secure natural gas pipeline approval for Project Jupiter data center - report",
-      "link": "https://www.datacenterdynamics.com/en/news/oracle-renews-attempts-to-secure-natural-gas-pipeline-approval-for-project-jupiter-data-center-report/",
-      "published": "Thu, 15 Oct 2026 13:50:26 +0000",
-      "summary": "Seeks approval from FERC to expedite approval of the 17.8-mile pipeline",
+      "title": "Carrier Connect leases 4MW data center in Alpharetta, Georgia",
+      "link": "https://www.datacenterdynamics.com/en/news/carrier-connect-leases-4mw-data-center-in-alpharetta-georgia/",
+      "published": "Fri, 16 Oct 2026 13:50:42 +0000",
+      "summary": "Colo firm leasing former GE facility from Mapletree",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Digital Realty eyes gigawatt-scale data center site outside Indianapolis, Indiana",
+      "link": "https://www.datacenterdynamics.com/en/news/digital-realty-eyes-gigawatt-scale-data-center-site-outside-indianapolis-indiana/",
+      "published": "Fri, 16 Oct 2026 13:30:32 +0000",
+      "summary": "Company looks to develop in Kokomo",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Utility Dive",
+      "title": "FERC proposes easing regulatory pathway for gas pipeline, LNG projects",
+      "link": "https://www.utilitydive.com/news/ferc-gas-pipeline-lng-blanket-authorization-permitting-reform/833234/",
+      "published": "Fri, 16 Oct 2026 10:42:23 -0400",
+      "summary": "&ldquo;The only current restriction on getting American gas is our ability to get the gas to market and the infrastructure bottlenecks,&rdquo; FERC Chairman Laura Swett said.",
       "relevant": "True",
       "reason": "AI + Energy nexus"
     },
@@ -370,9 +379,18 @@
       "title": "Utilities can use AI to solve grid backlogs: AWS energy lead",
       "link": "https://www.utilitydive.com/news/utilities-need-ai-solve-grid-backlogs-aws-energy-lead-head/832816/",
       "published": "Thu, 15 Oct 2026 12:00:00 -0400",
-      "summary": "The utilities moving first on AI-powered grid planning are delivering faster approvals, fewer outages and lower costs, writes Amazon Web Services&rsquo; head of energy and utilities&nbsp;Joseph Santamaria.",
+      "summary": "The utilities moving first on AI-powered grid planning are delivering faster approvals, fewer outages and lower costs, writes Amazon Web Services&rsquo; head of energy and utilities, Joseph Santamaria.",
       "relevant": "True",
       "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Utility Dive",
+      "title": "Solar imports from India, Indonesia, Laos injured US manufacturers: ITC",
+      "link": "https://www.utilitydive.com/news/itc-material-injury-solar-imports-india-indonesia-laos/833127/",
+      "published": "Thu, 15 Oct 2026 11:52:32 -0400",
+      "summary": "The decision clears the way for the Department of Commerce to finalize anti-dumping and countervailing duty orders on&nbsp;crystalline silicon photovoltaic cells from the three countries.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
     },
     {
       "source": "Utility Dive",
@@ -397,7 +415,7 @@
       "title": "Reliability standards for AI data centers, crypto miners move closer to adoption",
       "link": "https://www.utilitydive.com/news/reliability-standards-ai-data-centers-crypto-miners-pass-final-nerc-ba/833094/",
       "published": "Thu, 15 Oct 2026 09:28:37 -0400",
-      "summary": "The proposed rules must still be approved by NERC&rsquo;s board and&nbsp;federal regulators. As written, they would&nbsp;apply to computational loads of&nbsp;50 MW or more, connected at voltage levels of at least 100 kV.",
+      "summary": "The proposed rules must still be approved by NERC&rsquo;s board and&nbsp;federal regulators. As written, they would&nbsp;apply to computational loads of&nbsp;50 MW or more connected at voltage levels of at least 100 kV.",
       "relevant": "True",
       "reason": "Infrastructure mention"
     },
@@ -434,33 +452,6 @@
       "link": "https://www.utilitydive.com/news/scaling-vpps-could-cut-electric-bill-increases-by-half-brattle/832956/",
       "published": "Wed, 14 Oct 2026 09:27:40 -0400",
       "summary": "Utilities should look to OEM-led enrollment strategies to expand residential virtual power plants utilizing thermostats, batteries and EV chargers, according to The Brattle Group.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "Utility Dive",
-      "title": "Battery system failures fell 98% in 7 years, but older systems need special care: report",
-      "link": "https://www.utilitydive.com/news/battery-system-failures-fell-98-in-7-years-but-older-systems-need-special/832882/",
-      "published": "Tue, 13 Oct 2026 13:35:15 -0400",
-      "summary": "The Electric Power Research Institute analysis found a dramatic drop in energy storage system failures from 2018 to 2025 amid a host of technology and project improvements. &ldquo;Early-vintage&rdquo; systems may require retrofits, however.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "Utility Dive",
-      "title": "How small batteries are helping one NYC business cut energy costs",
-      "link": "https://www.utilitydive.com/news/how-small-batteries-are-helping-an-nyc-business-cut-energy-costs/832809/",
-      "published": "Tue, 13 Oct 2026 12:00:00 -0400",
-      "summary": "Food technology platform Wonder said it is&nbsp;saving about 5% on energy expenses using stationary plug-in batteries. &ldquo;Our No. 1 goal was to figure out how we can reduce our utility bills, shave the peaks off of our utility usage,&rdquo; a senior VP for the company&nbsp;said.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "World Nuclear News",
-      "title": "Moves to bolster US nuclear workforce development",
-      "link": "https://www.world-nuclear-news.org/articles/moves-to-bolster-us-nuclear-workforce-development",
-      "published": "Fri, 02 Oct 2026 09:00:16 GMT",
-      "summary": "Westinghouse and the University of South Carolina are partnering to create a multidisciplinary nuclear workforce development programme to support US fleet deployment of AP1000 plants. Meanwhile, the New York Power Authority has awarded USD10 million in funding to support nuclear workforce development programmes across the state. &nbsp;",
       "relevant": "False",
       "reason": "No relevant keywords"
     },
@@ -610,10 +601,28 @@
     },
     {
       "source": "World Nuclear News",
-      "title": "Second part of construction permit application submitted for SMRs at Palisades",
-      "link": "https://www.world-nuclear-news.org/articles/second-part-of-construction-permit-application-submitted-for-pioneer-smrs",
-      "published": "Fri, 02 Oct 2026 14:38:26 GMT",
-      "summary": "Holtec has submitted the Preliminary Safety Analysis Report to the US Nuclear Regulatory Commission for two small modular reactor units at the Palisades Energy Center in Michigan, completing the second phase of the Construction Permit Application process. &nbsp;",
+      "title": "Thorizon, TNO launch MSR materials programme",
+      "link": "https://www.world-nuclear-news.org/articles/thorizon-tno-launch-msr-materials-programme",
+      "published": "Fri, 16 Oct 2026 11:14:32 GMT",
+      "summary": "Molten salt reactor developer Thorizon and Dutch research and technology organisation TNO have launched a materials and corrosion programme to generate the experimental data and predictive models required to qualify materials for molten salt reactors. &nbsp;",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "World Nuclear News",
+      "title": "Mochovce 4 connected to the grid",
+      "link": "https://www.world-nuclear-news.org/articles/mochovce-4-connected-to-the-grid",
+      "published": "Fri, 16 Oct 2026 14:30:28 GMT",
+      "summary": "Slovakia's newest nuclear power unit, Mochovce 4, has been connected and started supplying its first electricity to the grid. &nbsp;",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "World Nuclear News",
+      "title": "Multiple milestones for India's nuclear projects",
+      "link": "https://www.world-nuclear-news.org/articles/multiple-milestones-for-indias-nuclear-projects",
+      "published": "Fri, 16 Oct 2026 14:43:40 GMT",
+      "summary": "Technical studies have begun onsite for Kakrapar units 5 and 6, two 700 MWe reactors planned for construction in Gujarat; India's Nuclear Fuels Complex is making steam generator tubes to support the fleet mode construction project; and India's small modular reactor project has reached a design milestone. &nbsp;",
       "relevant": "False",
       "reason": "No relevant keywords"
     },
@@ -623,15 +632,6 @@
       "link": "https://www.world-nuclear-news.org/articles/last-energy-texas-micro-modular-reactor-clears-safety-analysis",
       "published": "Thu, 08 Oct 2026 14:45:38 GMT",
       "summary": "The Department of Energy's approval of the Documented Safety Analysis clears Last Energy's planned pilot reactor at Texas A&amp;M-RELLIS to move into the readiness review, the final step before authorisation for criticality and reactor operations. &nbsp;",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "World Nuclear News",
-      "title": "Latest Terrestrial Energy topical report submission could lead to faster deployment",
-      "link": "https://www.world-nuclear-news.org/articles/latest-terrestrial-energy-topical-report-submission-could-lead-to-faster-deployment",
-      "published": "Fri, 09 Oct 2026 14:11:55 GMT",
-      "summary": "Approval of the Thermal and Electric Facility Topical Report submitted by the company to US regulators would mean that part of the Integrated Molten Salt Reactor plant would be classed as a conventional industrial, rather than nuclear, project, allowing it to be built and operated ahead of nuclear licensing. &nbsp;",
       "relevant": "False",
       "reason": "No relevant keywords"
     }
