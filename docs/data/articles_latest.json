@@ -1,9 +1,9 @@
 {
-  "generated_utc": "2026-10-17T22:04:26.314610+00:00",
-  "generated_at_et": "2026-10-17T18:04:26.314769-04:00",
+  "generated_utc": "2026-10-18T10:42:09.925096+00:00",
+  "generated_at_et": "2026-10-18T06:42:09.925255-04:00",
   "total": 70,
-  "relevant": 23,
-  "filtered": 47,
+  "relevant": 22,
+  "filtered": 48,
   "articles": [
     {
       "source": "TechCrunch AI",
@@ -187,6 +187,15 @@
     },
     {
       "source": "Data Center Dynamics",
+      "title": "Cloud-first served its purpose. Now it's time for workload-first",
+      "link": "https://www.datacenterdynamics.com/en/opinions/cloud-first-served-its-purpose-now-its-time-for-workload-first/",
+      "published": "Sun, 18 Oct 2026 06:00:53 +0000",
+      "summary": "A workload first approach",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "Data Center Dynamics",
       "title": "Sponsored: The hidden costs: Why data center sustainability fails without operational discipline",
       "link": "https://www.datacenterdynamics.com/en/opinions/the-hidden-costs-why-data-center-sustainability-fails-without-operational-discipline/",
       "published": "Sat, 17 Oct 2026 15:00:00 +0000",
@@ -357,15 +366,6 @@
       "reason": "Infrastructure mention"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Digital Realty eyes gigawatt-scale data center site outside Indianapolis, Indiana",
-      "link": "https://www.datacenterdynamics.com/en/news/digital-realty-eyes-gigawatt-scale-data-center-site-outside-indianapolis-indiana/",
-      "published": "Fri, 16 Oct 2026 13:30:32 +0000",
-      "summary": "Company looks to develop in Kokomo",
-      "relevant": "True",
-      "reason": "Infrastructure mention"
-    },
-    {
       "source": "Utility Dive",
       "title": "FERC proposes easing regulatory pathway for gas pipeline, LNG projects",
       "link": "https://www.utilitydive.com/news/ferc-gas-pipeline-lng-blanket-authorization-permitting-reform/833234/",
@@ -373,6 +373,15 @@
       "summary": "&ldquo;The only current restriction on getting American gas is our ability to get the gas to market and the infrastructure bottlenecks,&rdquo; FERC Chairman Laura Swett said.",
       "relevant": "True",
       "reason": "AI + Energy nexus"
+    },
+    {
+      "source": "Utility Dive",
+      "title": "NextEra’s $4M Trump ballroom donation muddies Dominion merger debate, watchdogs say",
+      "link": "https://www.utilitydive.com/news/nexteras-4m-trump-ballroom-donation-muddies-debate-over-dominion-merger/833201/",
+      "published": "Fri, 16 Oct 2026 06:28:17 -0400",
+      "summary": "The donation, which advocates called &ldquo;problematic&rdquo; and &ldquo;convenient&rdquo; for the company, comes to light as federal regulators chosen by President Donald Trump consider whether to allow NextEra to merge with Dominion Energy.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
     },
     {
       "source": "Utility Dive",
@@ -445,15 +454,6 @@
       "summary": "The project, dubbed &ldquo;Flagship,&rdquo;&nbsp;includes 765-kV transmission lines to be built by AEP Ohio, roughly 10 GW in data center load and about 10.2 GW in gas-fired generation.",
       "relevant": "True",
       "reason": "AI + Energy nexus"
-    },
-    {
-      "source": "Utility Dive",
-      "title": "Scaling residential VPPs could cut electric bill increases by half: Brattle",
-      "link": "https://www.utilitydive.com/news/scaling-vpps-could-cut-electric-bill-increases-by-half-brattle/832956/",
-      "published": "Wed, 14 Oct 2026 09:27:40 -0400",
-      "summary": "Utilities should look to OEM-led enrollment strategies to expand residential virtual power plants utilizing thermostats, batteries and EV chargers, according to The Brattle Group.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
     },
     {
       "source": "World Nuclear News",
