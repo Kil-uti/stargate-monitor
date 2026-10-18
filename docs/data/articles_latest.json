@@ -1,10 +1,28 @@
 {
-  "generated_utc": "2026-10-18T10:42:09.925096+00:00",
-  "generated_at_et": "2026-10-18T06:42:09.925255-04:00",
+  "generated_utc": "2026-10-18T22:54:20.096552+00:00",
+  "generated_at_et": "2026-10-18T18:54:20.096736-04:00",
   "total": 70,
   "relevant": 22,
   "filtered": 48,
   "articles": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "published": "Sun, 18 Oct 2026 20:37:40 +0000",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "published": "Sun, 18 Oct 2026 16:30:00 +0000",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Meta removes language that raised scraping and AI training concerns",
@@ -168,22 +186,13 @@
       "reason": "No relevant keywords"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-      "published": "Thu, 15 Oct 2026 14:29:33 +0000",
-      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "TechCrunch Disrupt 2026: Last day",
-      "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-      "published": "Thu, 15 Oct 2026 14:00:00 +0000",
-      "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
+      "source": "Data Center Dynamics",
+      "title": "The end of independent infrastructure roadmaps: how AI is forcing data center co-design",
+      "link": "https://www.datacenterdynamics.com/en/opinions/the-end-of-independent-infrastructure-roadmaps-how-ai-is-forcing-data-center-co-design/",
+      "published": "Sun, 18 Oct 2026 14:00:43 +0000",
+      "summary": "Idle accelerators represent stranded capital, wasted energy, and lower returns on some of the most expensive infrastructure investments in the data center",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
     },
     {
       "source": "Data Center Dynamics",
@@ -357,15 +366,6 @@
       "reason": "No relevant keywords"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Carrier Connect leases 4MW data center in Alpharetta, Georgia",
-      "link": "https://www.datacenterdynamics.com/en/news/carrier-connect-leases-4mw-data-center-in-alpharetta-georgia/",
-      "published": "Fri, 16 Oct 2026 13:50:42 +0000",
-      "summary": "Colo firm leasing former GE facility from Mapletree",
-      "relevant": "True",
-      "reason": "Infrastructure mention"
-    },
-    {
       "source": "Utility Dive",
       "title": "FERC proposes easing regulatory pathway for gas pipeline, LNG projects",
       "link": "https://www.utilitydive.com/news/ferc-gas-pipeline-lng-blanket-authorization-permitting-reform/833234/",
@@ -373,15 +373,6 @@
       "summary": "&ldquo;The only current restriction on getting American gas is our ability to get the gas to market and the infrastructure bottlenecks,&rdquo; FERC Chairman Laura Swett said.",
       "relevant": "True",
       "reason": "AI + Energy nexus"
-    },
-    {
-      "source": "Utility Dive",
-      "title": "NextEra’s $4M Trump ballroom donation muddies Dominion merger debate, watchdogs say",
-      "link": "https://www.utilitydive.com/news/nexteras-4m-trump-ballroom-donation-muddies-debate-over-dominion-merger/833201/",
-      "published": "Fri, 16 Oct 2026 06:28:17 -0400",
-      "summary": "The donation, which advocates called &ldquo;problematic&rdquo; and &ldquo;convenient&rdquo; for the company, comes to light as federal regulators chosen by President Donald Trump consider whether to allow NextEra to merge with Dominion Energy.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
     },
     {
       "source": "Utility Dive",
@@ -454,6 +445,15 @@
       "summary": "The project, dubbed &ldquo;Flagship,&rdquo;&nbsp;includes 765-kV transmission lines to be built by AEP Ohio, roughly 10 GW in data center load and about 10.2 GW in gas-fired generation.",
       "relevant": "True",
       "reason": "AI + Energy nexus"
+    },
+    {
+      "source": "Utility Dive",
+      "title": "Scaling residential VPPs could cut electric bill increases by half: Brattle",
+      "link": "https://www.utilitydive.com/news/scaling-vpps-could-cut-electric-bill-increases-by-half-brattle/832956/",
+      "published": "Wed, 14 Oct 2026 09:27:40 -0400",
+      "summary": "Utilities should look to OEM-led enrollment strategies to expand residential virtual power plants utilizing thermostats, batteries and EV chargers, according to The Brattle Group.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
     },
     {
       "source": "World Nuclear News",
