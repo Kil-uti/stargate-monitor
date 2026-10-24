@@ -1,0 +1,639 @@
+{
+  "generated_utc": "2026-10-24T10:38:01.347142+00:00",
+  "generated_at_et": "2026-10-24T06:38:01.347335-04:00",
+  "total": 70,
+  "relevant": 20,
+  "filtered": 50,
+  "articles": [
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "published": "Fri, 23 Oct 2026 23:05:49 +0000",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "published": "Fri, 23 Oct 2026 21:59:19 +0000",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "published": "Fri, 23 Oct 2026 19:06:23 +0000",
+      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "published": "Fri, 23 Oct 2026 04:00:00 +0000",
+      "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "published": "Fri, 23 Oct 2026 00:45:37 +0000",
+      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "published": "Thu, 22 Oct 2026 22:08:24 +0000",
+      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "published": "Thu, 22 Oct 2026 19:07:09 +0000",
+      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "published": "Thu, 22 Oct 2026 19:00:00 +0000",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Canva releases its first image generation model",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "published": "Thu, 22 Oct 2026 19:00:00 +0000",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "published": "Thu, 22 Oct 2026 18:43:53 +0000",
+      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "published": "Thu, 22 Oct 2026 16:47:17 +0000",
+      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "published": "Thu, 22 Oct 2026 16:00:00 +0000",
+      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "published": "Thu, 22 Oct 2026 15:03:58 +0000",
+      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "published": "Thu, 22 Oct 2026 13:53:26 +0000",
+      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "published": "Thu, 22 Oct 2026 13:26:52 +0000",
+      "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "published": "Thu, 22 Oct 2026 13:11:13 +0000",
+      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "published": "Wed, 21 Oct 2026 22:51:22 +0000",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "published": "Wed, 21 Oct 2026 22:45:34 +0000",
+      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "published": "Wed, 21 Oct 2026 21:16:20 +0000",
+      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "published": "Wed, 21 Oct 2026 21:14:19 +0000",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "SpaceXAI facing $6.1m fine in Mississippi for building data centers without securing correct permits",
+      "link": "https://www.datacenterdynamics.com/en/news/spacexai-data-center-mississippi-memphis-elon-musk/",
+      "published": "Sat, 24 Oct 2026 10:00:21 +0000",
+      "summary": "Elon Musk's firm will also be back in court over problematic gas turbines",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: GF completes LiquidCore portfolio with intelligent Multi Control Valve to maximize direct liquid cooling efficiency",
+      "link": "https://www.datacenterdynamics.com/en/product-news/gf-completes-liquidcore-portfolio-with-intelligent-multi-control-valve-to-maximize-direct-liquid-cooling-efficiency/",
+      "published": "Sat, 24 Oct 2026 07:00:00 +0000",
+      "summary": "The introduction of the Multi Control Valve serves as the vital active intelligence layer that completes GF’s single-source LiquidCore system offering",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Core Stack JV adds more data centers to €1bn Italy network",
+      "link": "https://www.datacenterdynamics.com/en/news/core-stack-jv-adds-more-data-centers-to-1bn-italy-network/",
+      "published": "Fri, 23 Oct 2026 16:10:43 +0000",
+      "summary": "Two facilities near Cremona and Verona are in advanced planning stages",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "New Libyan telecom firm to launch data center in 2027",
+      "link": "https://www.datacenterdynamics.com/en/news/new-libyan-telecom-firm-to-launch-data-center-in-2027/",
+      "published": "Fri, 23 Oct 2026 16:10:43 +0000",
+      "summary": "Installation of the Medusa subsea cable also progresses in Benghazi",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Crown Castle bullish on carrier spectrum deployment, says it can support SpaceX's terrestrial dreams",
+      "link": "https://www.datacenterdynamics.com/en/news/crown-castle-bullish-on-carrier-spectrum-deployment-says-it-can-support-spacexs-terrestrial-dreams/",
+      "published": "Fri, 23 Oct 2026 16:06:00 +0000",
+      "summary": "As the tower company sees an opportunity to support SpaceX's terrestrial rollout",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Actyus, Adequita, and Nethits launch fund for Edge data centers - report",
+      "link": "https://www.datacenterdynamics.com/en/news/actyus-adequita-and-nethits-launch-fund-for-edge-data-centers-report/",
+      "published": "Fri, 23 Oct 2026 16:04:12 +0000",
+      "summary": "The project focuses on smaller-scale infrastructure that brings computing closer to businesses and government agencies.",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Short seller bets against Csquare, says data center firm's shares are worthless",
+      "link": "https://www.datacenterdynamics.com/en/news/short-seller-bets-against-csquare-says-data-center-firms-shares-are-worthless/",
+      "published": "Fri, 23 Oct 2026 16:00:37 +0000",
+      "summary": "Concerns over portfolio and capital structure",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Meta details Ohio Prometheus data center campus, with first phase live",
+      "link": "https://www.datacenterdynamics.com/en/news/meta-details-ohio-prometheus-data-center-campus-with-first-phase-live/",
+      "published": "Fri, 23 Oct 2026 15:55:54 +0000",
+      "summary": "Has already been used to train Muse",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "ZTE unveils data center module designed for AI workloads",
+      "link": "https://www.datacenterdynamics.com/en/news/zte-unveils-data-center-module-designed-for-ai-workloads/",
+      "published": "Fri, 23 Oct 2026 15:53:43 +0000",
+      "summary": "Rack power within the module will range from 20kW to 60kW",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Nokia, ICEYE pair with Ukraine's Ministry of Defence on satellite cooperation",
+      "link": "https://www.datacenterdynamics.com/en/news/nokia-iceye-pair-with-ukraines-ministry-of-defence-on-satellite-cooperation/",
+      "published": "Fri, 23 Oct 2026 15:52:02 +0000",
+      "summary": "Comes amid strained tensions between Ukraine and SpaceX's Starlink",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Oregon city declares state of emergency over lost data center revenue amid state-wide ban",
+      "link": "https://www.datacenterdynamics.com/en/news/oregon-city-declares-state-of-emergency-over-lost-data-center-revenue-amid-state-wide-ban/",
+      "published": "Fri, 23 Oct 2026 15:33:22 +0000",
+      "summary": "City of Umatilla was relying on tax revenues due to come in from Sabey and Amazon",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Why legacy building systems deserve the same scrutiny as your network",
+      "link": "https://www.datacenterdynamics.com/en/opinions/why-legacy-building-systems-deserve-the-same-scrutiny-as-your-network/",
+      "published": "Fri, 23 Oct 2026 15:30:48 +0000",
+      "summary": "And why it's key to always remain vigilant over network vulnerabilities",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: Data center optionality: Why day one decisions determine day two success",
+      "link": "https://www.datacenterdynamics.com/en/opinions/data-center-optionality-why-day-one-decisions-determine-day-two-success/",
+      "published": "Fri, 23 Oct 2026 15:00:00 +0000",
+      "summary": "Speed to market is a phase, not a strategy",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Russian finance ministry data center struck by Ukrainian forces",
+      "link": "https://www.datacenterdynamics.com/en/news/russian-tax-dc-0-gorodets/",
+      "published": "Fri, 23 Oct 2026 14:49:52 +0000",
+      "summary": "Another data center damaged in conflict",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "O-Green plans data center campus in Zaragoza, Spain",
+      "link": "https://www.datacenterdynamics.com/en/news/o-green-plans-data-center-campus-in-zaragoza-spain/",
+      "published": "Fri, 23 Oct 2026 14:40:32 +0000",
+      "summary": "The fund, which is linked to Oman, plans to invest €7.4 billion in a data center campus in San Mateo de Gállego, Zaragoza",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Google's fiber unit to snap up dark fiber leasing contract from Ting Fiber in Colorado Springs",
+      "link": "https://www.datacenterdynamics.com/en/news/googles-fiber-unit-to-snap-up-dark-fiber-leasing-contract-from-ting-fiber-in-colorado-springs/",
+      "published": "Fri, 23 Oct 2026 14:20:35 +0000",
+      "summary": "As Ting Fiber set for Colorado Springs exit in late March 2027",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Vertical Semiconductor awarded $73m in CHIPS Act funding to support vGaN transistor development",
+      "link": "https://www.datacenterdynamics.com/en/news/vertical-semiconductor-awarded-73m-in-chips-act-funding-to-support-vgan-transistor-development/",
+      "published": "Fri, 23 Oct 2026 14:00:53 +0000",
+      "summary": "The agreement will see the Department of Commerce take a minority stake in the company",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Data center outage leaves Portugal's National Health Service without prescriptions",
+      "link": "https://www.datacenterdynamics.com/en/news/a-data-center-outage-leaves-portugals-sns-without-prescriptions/",
+      "published": "Fri, 23 Oct 2026 13:40:41 +0000",
+      "summary": "Affected services included National User Registry and the Electronic Medical Prescription (PEM), as well as access to Electronic Health Record",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Telefónica and IQM will install Madrid's first quantum computer",
+      "link": "https://www.datacenterdynamics.com/en/news/telefonica-and-iqm-to-install-madrids-first-quantum-computer/",
+      "published": "Fri, 23 Oct 2026 13:33:18 +0000",
+      "summary": "The project expands the collaboration between Telefónica and IQM, which have already supplied two quantum computers to the Galicia Supercomputing Center (CESGA)",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "InsurTech company Reliance Global Group to acquire GPU cloud company and pivot strategy",
+      "link": "https://www.datacenterdynamics.com/en/news/insurtech-company-reliance-global-group-to-acquire-gpu-cloud-company-and-pivot-strategy/",
+      "published": "Fri, 23 Oct 2026 13:30:34 +0000",
+      "summary": "Will rebrand as GPU Exchange",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "Utility Dive",
+      "title": "PG&E needs wildfire policy reform to manage tail risk, CEO says",
+      "link": "https://www.utilitydive.com/news/pge-needs-wildfire-policy-reform-to-manage-tail-risk-ceo-says/833845/",
+      "published": "Fri, 23 Oct 2026 10:43:56 -0400",
+      "summary": "CEO Patti Poppe said the company&rsquo;s credit rating &ldquo;is a major issue that must be solved ... [legislative]&nbsp;inaction will continue to get increasingly expensive for our customers.&rdquo;",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "Utility Dive",
+      "title": "Trump eschews tariffs for trade talks on wind turbine imports",
+      "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
+      "published": "Fri, 23 Oct 2026 08:11:00 -0400",
+      "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "Utility Dive",
+      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
+      "link": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
+      "published": "Fri, 23 Oct 2026 08:00:00 -0400",
+      "summary": "The company remains on track to close a merger with Dominion Energy in the second half of 2027, despite political opposition in Virginia, NextEra officials said Wednesday.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "Utility Dive",
+      "title": "Utilities turn to AI to manage rising power demand — from AI",
+      "link": "https://www.utilitydive.com/news/utilities-turn-to-ai-to-manage-rising-power-demand-from-ai/833627/",
+      "published": "Thu, 22 Oct 2026 12:15:17 -0400",
+      "summary": "Applications include maintenance prioritization and demand forecasting, but&nbsp;AI outputs that are uneven, or those that can&rsquo;t be audited, constrain broader deployment. &ldquo;Most utilities could not reconstruct what an AI system read, what it did and why,&rdquo; one expert told Utility Dive.",
+      "relevant": "True",
+      "reason": "AI + Energy nexus"
+    },
+    {
+      "source": "Utility Dive",
+      "title": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill",
+      "link": "https://www.utilitydive.com/news/trump-administration-asks-courts-to-revoke-permits-for-offshore-wind-farms/833735/",
+      "published": "Thu, 22 Oct 2026 11:26:51 -0400",
+      "summary": "Sen. Sheldon Whitehouse, D-R.I., one of the senators sponsoring the Bipartisan American Affordability and Jobs Act, said in a statement, &ldquo;This is how you blow up a permitting deal.&rdquo;",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "Utility Dive",
+      "title": "Jigar Shah blames the wrong target for rising electricity bills",
+      "link": "https://www.utilitydive.com/news/jigar-shah-electricity-bills-utility-profit-caruso/833188/",
+      "published": "Thu, 22 Oct 2026 11:00:00 -0400",
+      "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "Utility Dive",
+      "title": "Google supersizes PJM virtual power plant to more than 1 GW",
+      "link": "https://www.utilitydive.com/news/google-voltus-vpp-virtual-power-pjm/833717/",
+      "published": "Thu, 22 Oct 2026 10:42:49 -0400",
+      "summary": "Such contracts&nbsp;signal a turning point for distributed resources in energy markets, industry sources say. Demand response revenue in PJM jumped 240% from 2024 to 2025, reaching $523.6 million; emergency demand response accounted for 88% of that.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "Utility Dive",
+      "title": "Geothermal lease sale on federal land in Nevada nets $4.8M",
+      "link": "https://www.utilitydive.com/news/geothermal-lease-sale-blm-nevada-nextera/833603/",
+      "published": "Wed, 21 Oct 2026 11:29:28 -0400",
+      "summary": "An Interior Department auction for roughly 187,000 acres generated less per acre than a similar sale in the same state in 2025. Leases for two parcels that sold overlap with the site of a proposed NextEra solar farm.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "Utility Dive",
+      "title": "Solar PPA prices jump 5% in Q3, mainly on new trade tariffs: LevelTen",
+      "link": "https://www.utilitydive.com/news/tariffs-solar-wind-ppa-prices-levelten/833598/",
+      "published": "Wed, 21 Oct 2026 11:17:31 -0400",
+      "summary": "Wind power purchase agreements held relatively steady in Q3 but could begin to rise again as the latest round of tariffs takes effect later this year.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "Utility Dive",
+      "title": "The capacity market crisis is a design problem, not a verdict on competition",
+      "link": "https://www.utilitydive.com/news/capacity-market-crisis-design-problem-verdict-competition-pjm/833303/",
+      "published": "Wed, 21 Oct 2026 10:04:06 -0400",
+      "summary": "PJM's capacity price spikes are a symptom of a market that drifted too far toward spot-price dependence, not an indication that competition itself does not work, write Atlantic Council experts.",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "World Nuclear News",
+      "title": "Bangladesh's Rooppur 1 achieves criticality",
+      "link": "https://www.world-nuclear-news.org/articles/bangladeshs-rooppur-1-achieves-criticality",
+      "published": "Mon, 12 Oct 2026 12:47:06 GMT",
+      "summary": "The first unit at Bangladesh's Rooppur Nuclear Power Plant achieved criticality - a self-sustaining nuclear reaction - at 15:34 on Sunday, 11 October. &nbsp;",
+      "relevant": "True",
+      "reason": "AI + Energy nexus"
+    },
+    {
+      "source": "World Nuclear News",
+      "title": "Czech SMR environmental impact assessment submitted",
+      "link": "https://www.world-nuclear-news.org/articles/czech-smr-environmental-impact-assessment-submitted",
+      "published": "Tue, 13 Oct 2026 10:58:34 GMT",
+      "summary": "ČEZ has submitted the Environmental Impact Assessment documentation to the Ministry of the Environment for its Rolls-Royce SMR small modular reactor project in&nbsp;Temel&iacute;n. &nbsp;",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "World Nuclear News",
+      "title": "Agreement signed on second Polish nuclear power plant",
+      "link": "https://www.world-nuclear-news.org/articles/agreement-signed-on-second-polish-nuclear-power-plant",
+      "published": "Tue, 13 Oct 2026 13:46:42 GMT",
+      "summary": "Poland's Ministry of Energy, Polskie Elektrownie Jądrowe and Polska Grupa Energetyczna have signed an agreement defining the division of tasks and principles of cooperation in preparing the construction of the country's second nuclear power plant. &nbsp;",
+      "relevant": "False",
+      "reason": "Filtered: defi"
+    },
+    {
+      "source": "World Nuclear News",
+      "title": "Hot testing of Chinese SMR under way",
+      "link": "https://www.world-nuclear-news.org/articles/hot-testing-of-chinese-smr-under-way",
+      "published": "Wed, 14 Oct 2026 07:26:53 GMT",
+      "summary": "Tests that simulate the temperatures and pressures which the reactor systems will be subjected to during normal operation are reportedly taking place at the ACP100 small modular reactor demonstration project, under construction at the Changjiang site on China's island province of Hainan. &nbsp;",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "World Nuclear News",
+      "title": "Westinghouse places initial orders for Polish plant",
+      "link": "https://www.world-nuclear-news.org/articles/westinghouse-places-initial-orders-for-polish-plant",
+      "published": "Wed, 14 Oct 2026 11:49:10 GMT",
+      "summary": "Westinghouse has placed conditional purchase orders for safety-related modules with four Polish companies,&nbsp;a week after being commissioned to begin ordering long-lead items for the first unit of Poland's planned first nuclear power plant. &nbsp;",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "World Nuclear News",
+      "title": "Joint venture formed for six-unit SMR plant in Poland",
+      "link": "https://www.world-nuclear-news.org/articles/joint-venture-formed-for-six-unit-smr-plant-in-poland",
+      "published": "Thu, 15 Oct 2026 12:39:52 GMT",
+      "summary": "Poland's SGE and ZE Pak have agreed to establish a joint venture to develop a nuclear power plant in&nbsp;Pątn&oacute;w which will feature up to six BWRX-300 small modular reactors. &nbsp;",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "World Nuclear News",
+      "title": "US DOE funding to accelerate molten salt reactor development",
+      "link": "https://www.world-nuclear-news.org/articles/us-doe-funding-to-accelerate-molten-chloride-reactor-development",
+      "published": "Thu, 15 Oct 2026 13:13:36 GMT",
+      "summary": "The Molten Chloride Reactor Experiment aims to achieve first criticality in 2027, with the US Department of Energy approving cost-shared funding under its Advanced Reactor Demonstration Program. &nbsp;",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "World Nuclear News",
+      "title": "Thorizon, TNO launch MSR materials programme",
+      "link": "https://www.world-nuclear-news.org/articles/thorizon-tno-launch-msr-materials-programme",
+      "published": "Fri, 16 Oct 2026 11:14:32 GMT",
+      "summary": "Molten salt reactor developer Thorizon and Dutch research and technology organisation TNO have launched a materials and corrosion programme to generate the experimental data and predictive models required to qualify materials for molten salt reactors. &nbsp;",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "World Nuclear News",
+      "title": "Mochovce 4 connected to the grid",
+      "link": "https://www.world-nuclear-news.org/articles/mochovce-4-connected-to-the-grid",
+      "published": "Fri, 16 Oct 2026 14:30:28 GMT",
+      "summary": "Slovakia's newest nuclear power unit, Mochovce 4, has been connected and started supplying its first electricity to the grid. &nbsp;",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "World Nuclear News",
+      "title": "Multiple milestones for India's nuclear projects",
+      "link": "https://www.world-nuclear-news.org/articles/multiple-milestones-for-indias-nuclear-projects",
+      "published": "Fri, 16 Oct 2026 14:43:40 GMT",
+      "summary": "Technical studies have begun onsite for Kakrapar units 5 and 6, two 700 MWe reactors planned for construction in Gujarat; India's Nuclear Fuels Complex is making steam generator tubes to support the fleet mode construction project; and India's small modular reactor project has reached a design milestone. &nbsp;",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "World Nuclear News",
+      "title": "Oklo plans isotope facility under US Launch Pad initiative",
+      "link": "https://www.world-nuclear-news.org/articles/oklo-plans-isotope-facility-under-us-launch-pad-initiative",
+      "published": "Mon, 19 Oct 2026 09:24:42 GMT",
+      "summary": "Oklo says the Groves-2 Forge isotope production and processing pilot facility will build on the deployment of its Groves Isotope Test Reactor, which reached criticality earlier this year. &nbsp;",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "World Nuclear News",
+      "title": "Rosatom signs floating nuclear power deal for Indonesia",
+      "link": "https://www.world-nuclear-news.org/articles/rosatom-signs-floating-nuclear-power-deal-for-indonesia",
+      "published": "Mon, 19 Oct 2026 11:40:56 GMT",
+      "summary": "Electricity generated by floating nuclear power plants will be provided to an East Indonesian island, according to an agreement signed by Rosatom and Indonesian company PT Pembangkit Listrik Nuklir. &nbsp;",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "World Nuclear News",
+      "title": "AEP, Amazon and X-energy planning 12-SMR plant",
+      "link": "https://www.world-nuclear-news.org/articles/aep-amazon-and-x-energy-plan-12-smr-plant",
+      "published": "Mon, 19 Oct 2026 13:35:54 GMT",
+      "summary": "US utility American Electric Power and X-energy have signed a joint development agreement to evaluate a potential 960 MW project at a former coal plant site in Sullivan County, Indiana. &nbsp;",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "World Nuclear News",
+      "title": "Korean concern over proposed 'Made in EU' act's impact on nuclear power projects",
+      "link": "https://www.world-nuclear-news.org/articles/korean-concerns-over-proposed-made-in-eu-acts-impact-nuclear-power-projects",
+      "published": "Tue, 20 Oct 2026 11:56:26 GMT",
+      "summary": "Progress on the Dukovany new nuclear project is continuing on schedule, but South Korea has concerns about the potential impact of the European Union's proposed Industrial Accelerator Act on non-member countries participating in the EU's nuclear power market. &nbsp;",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "World Nuclear News",
+      "title": "Indiana considering 6 GW Candu nuclear project",
+      "link": "https://www.world-nuclear-news.org/articles/indiana-considering-6-gw-candu-nuclear-project",
+      "published": "Tue, 20 Oct 2026 13:54:28 GMT",
+      "summary": "AtkinsR&eacute;alis Group, Hoosier Energy Rural Electric Cooperative and the State of Indiana in the US are to explore a potential project featuring up to eight Candu nuclear power units, with a combined 6 GW capacity. &nbsp;",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "World Nuclear News",
+      "title": "The Nuclear Company proposes 6.6 GW Kentucky project",
+      "link": "https://www.world-nuclear-news.org/articles/nuclear-company-proposes-66-gw-kentucky-project",
+      "published": "Wed, 21 Oct 2026 13:44:17 GMT",
+      "summary": "The Nuclear Company has outlined plans for an energy campus in Lewis County, Kentucky, which could feature up to six AP1000 reactors - this would make its 6.6 GW capacity larger than any current nuclear power plant in the USA. &nbsp;",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "World Nuclear News",
+      "title": "SMRs could be part of Port of Rotterdam's future, says study",
+      "link": "https://www.world-nuclear-news.org/articles/smrs-could-be-part-of-port-of-rotterdams-future-says-study",
+      "published": "Thu, 22 Oct 2026 09:30:35 GMT",
+      "summary": "The Dutch port of Rotterdam could become part of the future small modular reactor supply chain - with opportunities extending well beyond the adoption of nuclear technology itself, according to a study conducted jointly by Tractebel and Technopolis Group. &nbsp;",
+      "relevant": "True",
+      "reason": "AI + Energy nexus"
+    },
+    {
+      "source": "World Nuclear News",
+      "title": "Radiant microreactor selected for deployment by US Navy",
+      "link": "https://www.world-nuclear-news.org/articles/radiant-microreactor-selected-for-deployment-by-us-navy",
+      "published": "Thu, 22 Oct 2026 11:00:53 GMT",
+      "summary": "The US Navy has selected Radiant's Kaleidos microreactor for deployment at Naval Weapons Station Crane, Indiana. &nbsp;",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "World Nuclear News",
+      "title": "Rosatom eyes 2027 for Uzbek large reactor construction",
+      "link": "https://www.world-nuclear-news.org/articles/rosatom-eyes-2027-for-uzbek-reactor-construction",
+      "published": "Fri, 23 Oct 2026 11:59:44 GMT",
+      "summary": "Rosatom plans to launch construction of the large-scale nuclear units at the planned power plant in Uzbekistan in 2027, CEO Alexey Likhachev has said during a visit to the construction site. &nbsp;",
+      "relevant": "True",
+      "reason": "AI + Energy nexus"
+    },
+    {
+      "source": "World Nuclear News",
+      "title": "IAEA carries out fresh LTO review mission to Oskarshamn",
+      "link": "https://www.world-nuclear-news.org/articles/iaea-carries-out-fresh-lto-review-mission-to-oskarshamn",
+      "published": "Tue, 13 Oct 2026 09:06:19 GMT",
+      "summary": "The International Atomic Energy Agency team focused on aspects related to the safe Long Term Operation of Sweden's Oskarshamn 3 nuclear power unit during the visit, which followed a similar mission two years earlier. &nbsp;",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    }
+  ]
+}
