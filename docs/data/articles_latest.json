@@ -1,10 +1,73 @@
 {
-  "generated_utc": "2026-10-24T10:38:01.347142+00:00",
-  "generated_at_et": "2026-10-24T06:38:01.347335-04:00",
+  "generated_utc": "2026-10-26T10:52:05.102952+00:00",
+  "generated_at_et": "2026-10-26T06:52:05.103137-04:00",
   "total": 70,
-  "relevant": 20,
-  "filtered": 50,
+  "relevant": 22,
+  "filtered": 48,
   "articles": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "published": "Sun, 25 Oct 2026 21:31:16 +0000",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "published": "Sun, 25 Oct 2026 16:57:32 +0000",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "published": "Sun, 25 Oct 2026 14:10:00 +0000",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "published": "Sat, 24 Oct 2026 19:00:00 +0000",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Block’s new voice model sounds eerily human",
+      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "published": "Sat, 24 Oct 2026 16:00:00 +0000",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "published": "Sat, 24 Oct 2026 15:00:00 +0000",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "published": "Sat, 24 Oct 2026 14:00:00 +0000",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
     {
       "source": "TechCrunch AI",
       "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
@@ -70,19 +133,19 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "title": "Canva releases its first image generation model",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
       "published": "Thu, 22 Oct 2026 19:00:00 +0000",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
       "relevant": "False",
       "reason": "No relevant keywords"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Canva releases its first image generation model",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
       "published": "Thu, 22 Oct 2026 19:00:00 +0000",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
       "relevant": "False",
       "reason": "No relevant keywords"
     },
@@ -123,65 +186,92 @@
       "reason": "No relevant keywords"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Claude Duet app is Anthropic’s bet on agents",
-      "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-      "published": "Thu, 22 Oct 2026 13:53:26 +0000",
-      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
+      "source": "Data Center Dynamics",
+      "title": "AWS plans to expand data center footprint in Montgomery County, Missouri",
+      "link": "https://www.datacenterdynamics.com/en/news/aws-plans-to-expand-data-center-footprint-in-montgomery-county-missouri/",
+      "published": "Mon, 26 Oct 2026 10:43:57 +0000",
+      "summary": "Also hosts open house to discuss plans in Posey County, Indiana",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Microsoft acquires 37 acres in Licking County, Ohio",
+      "link": "https://www.datacenterdynamics.com/en/news/microsoft-acquires-37-acres-in-licking-county-ohio/",
+      "published": "Mon, 26 Oct 2026 10:42:18 +0000",
+      "summary": "Company continues to expand its data center footprint in the region",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Tesla appoints new head of energy programs",
+      "link": "https://www.datacenterdynamics.com/en/news/tesla-appoints-new-head-of-energy-programs/",
+      "published": "Mon, 26 Oct 2026 10:33:00 +0000",
+      "summary": "Jessy Rivest joins the team",
       "relevant": "False",
       "reason": "No relevant keywords"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Nirva raises $33M for a pendant that only listens to you",
-      "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-      "published": "Thu, 22 Oct 2026 13:26:52 +0000",
-      "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+      "source": "Data Center Dynamics",
+      "title": "Daedalus supercomputer inaugurated in Greece",
+      "link": "https://www.datacenterdynamics.com/en/news/daedalus-supercomputer-inaugurated-in-greece/",
+      "published": "Mon, 26 Oct 2026 10:27:39 +0000",
+      "summary": "85 petaflops system features Nvidia H200s, housed in a repurposed building",
       "relevant": "False",
       "reason": "No relevant keywords"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "DeepSeek reportedly raises $15B days after US restrictions",
-      "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-      "published": "Thu, 22 Oct 2026 13:11:13 +0000",
-      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
+      "source": "Data Center Dynamics",
+      "title": "Kao Data to host CommonAI's AI Scaling Inference Lab at Harlow data center",
+      "link": "https://www.datacenterdynamics.com/en/news/kao-data-to-host-commonais-ai-scaling-inference-lab-at-harlow-data-center/",
+      "published": "Mon, 26 Oct 2026 10:24:04 +0000",
+      "summary": "Lab to host Nvidia and AMD hardware",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "HPE to send Spaceborne Computer-4 to the Moon",
+      "link": "https://www.datacenterdynamics.com/en/news/hpe-to-send-spaceborne-computer-4-to-the-moon/",
+      "published": "Mon, 26 Oct 2026 10:15:20 +0000",
+      "summary": "Compute module to be placed on Astrolab rover",
       "relevant": "False",
       "reason": "No relevant keywords"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-      "published": "Wed, 21 Oct 2026 22:51:22 +0000",
-      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: Belimo strengthens global data center strategy with new Experience Center in the Americas",
+      "link": "https://www.datacenterdynamics.com/en/product-news/belimo-strengthens-global-data-center-strategy-with-new-experience-center-in-the-americas/",
+      "published": "Mon, 26 Oct 2026 08:00:00 +0000",
+      "summary": "New interactive space gives customers a rare opportunity to experience mission-critical cooling technologies through hands-on demonstrations and real-world applications",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: From monitoring to intelligence: Network transparency for the modern telco reality",
+      "link": "https://www.datacenterdynamics.com/en/marketwatch/from-monitoring-to-intelligence-network-transparency-for-the-modern-telco-reality/",
+      "published": "Mon, 26 Oct 2026 08:00:00 +0000",
+      "summary": "A supercharged network officer transforming data into a source of actionable intelligence for network and operations teams",
       "relevant": "False",
       "reason": "No relevant keywords"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-      "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-      "published": "Wed, 21 Oct 2026 22:45:34 +0000",
-      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
+      "source": "Data Center Dynamics",
+      "title": "The power behind AI: Data centers drive the demand for qualified electricians",
+      "link": "https://www.datacenterdynamics.com/en/opinions/the-power-behind-ai-data-centers-drive-the-demand-for-qualified-electricians/",
+      "published": "Sun, 25 Oct 2026 11:00:30 +0000",
+      "summary": "An insatiable demand for electricians",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "published": "Wed, 21 Oct 2026 21:16:20 +0000",
-      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "published": "Wed, 21 Oct 2026 21:14:19 +0000",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
+      "source": "Data Center Dynamics",
+      "title": "Georgia's Silk Cloud deploys Nvidia Blackwell Ultra GPUs",
+      "link": "https://www.datacenterdynamics.com/en/news/georgias-silk-cloud-deploys-nvidia-blackwell-ultra-gpus/",
+      "published": "Sat, 24 Oct 2026 13:00:21 +0000",
+      "summary": "UK-based Fuse Energy also brings GPU compute online for customers",
       "relevant": "False",
       "reason": "No relevant keywords"
     },
@@ -189,7 +279,7 @@
       "source": "Data Center Dynamics",
       "title": "SpaceXAI facing $6.1m fine in Mississippi for building data centers without securing correct permits",
       "link": "https://www.datacenterdynamics.com/en/news/spacexai-data-center-mississippi-memphis-elon-musk/",
-      "published": "Sat, 24 Oct 2026 10:00:21 +0000",
+      "published": "Sat, 24 Oct 2026 10:00:00 +0000",
       "summary": "Elon Musk's firm will also be back in court over problematic gas turbines",
       "relevant": "True",
       "reason": "Infrastructure mention"
@@ -276,94 +366,40 @@
       "reason": "No relevant keywords"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Oregon city declares state of emergency over lost data center revenue amid state-wide ban",
-      "link": "https://www.datacenterdynamics.com/en/news/oregon-city-declares-state-of-emergency-over-lost-data-center-revenue-amid-state-wide-ban/",
-      "published": "Fri, 23 Oct 2026 15:33:22 +0000",
-      "summary": "City of Umatilla was relying on tax revenues due to come in from Sabey and Amazon",
-      "relevant": "True",
-      "reason": "Infrastructure mention"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Why legacy building systems deserve the same scrutiny as your network",
-      "link": "https://www.datacenterdynamics.com/en/opinions/why-legacy-building-systems-deserve-the-same-scrutiny-as-your-network/",
-      "published": "Fri, 23 Oct 2026 15:30:48 +0000",
-      "summary": "And why it's key to always remain vigilant over network vulnerabilities",
+      "source": "Utility Dive",
+      "title": "When does a BI value stop being the right number?",
+      "link": "https://www.utilitydive.com/spons/when-does-a-bi-value-stop-being-the-right-number/833425/",
+      "published": "Mon, 26 Oct 2026 05:00:00 -0400",
+      "summary": "For energy companies, the assumptions behind a BI value can change materially during the policy period.",
       "relevant": "False",
       "reason": "No relevant keywords"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: Data center optionality: Why day one decisions determine day two success",
-      "link": "https://www.datacenterdynamics.com/en/opinions/data-center-optionality-why-day-one-decisions-determine-day-two-success/",
-      "published": "Fri, 23 Oct 2026 15:00:00 +0000",
-      "summary": "Speed to market is a phase, not a strategy",
+      "source": "Utility Dive",
+      "title": "More capability, less equipment: the future of capacitor bank control",
+      "link": "https://www.utilitydive.com/spons/more-capability-less-equipment-the-future-of-capacitor-bank-control/833143/",
+      "published": "Mon, 26 Oct 2026 05:00:00 -0400",
+      "summary": "Utilities can now gain capacity and reliability without adding equipment or substation space.",
+      "relevant": "True",
+      "reason": "AI + Energy nexus"
+    },
+    {
+      "source": "Utility Dive",
+      "title": "The push to DC: Why data centers are rethinking power architecture",
+      "link": "https://www.utilitydive.com/spons/the-push-to-dc-why-data-centers-are-rethinking-power-architecture/833783/",
+      "published": "Mon, 26 Oct 2026 05:00:00 -0400",
+      "summary": "Explore how 800 VDC can reduce power losses, free up data center space and reshape power architecture.",
       "relevant": "True",
       "reason": "Infrastructure mention"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Russian finance ministry data center struck by Ukrainian forces",
-      "link": "https://www.datacenterdynamics.com/en/news/russian-tax-dc-0-gorodets/",
-      "published": "Fri, 23 Oct 2026 14:49:52 +0000",
-      "summary": "Another data center damaged in conflict",
+      "source": "Utility Dive",
+      "title": "Inside the resilience gap",
+      "link": "https://www.utilitydive.com/spons/inside-the-resilience-gap/832932/",
+      "published": "Mon, 26 Oct 2026 05:00:00 -0400",
+      "summary": "The 2026 State of Grid Resilience report puts data behind the pressures utility leaders face as they strengthen resilience while balancing affordability and performance.",
       "relevant": "True",
       "reason": "Infrastructure mention"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "O-Green plans data center campus in Zaragoza, Spain",
-      "link": "https://www.datacenterdynamics.com/en/news/o-green-plans-data-center-campus-in-zaragoza-spain/",
-      "published": "Fri, 23 Oct 2026 14:40:32 +0000",
-      "summary": "The fund, which is linked to Oman, plans to invest €7.4 billion in a data center campus in San Mateo de Gállego, Zaragoza",
-      "relevant": "True",
-      "reason": "Infrastructure mention"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Google's fiber unit to snap up dark fiber leasing contract from Ting Fiber in Colorado Springs",
-      "link": "https://www.datacenterdynamics.com/en/news/googles-fiber-unit-to-snap-up-dark-fiber-leasing-contract-from-ting-fiber-in-colorado-springs/",
-      "published": "Fri, 23 Oct 2026 14:20:35 +0000",
-      "summary": "As Ting Fiber set for Colorado Springs exit in late March 2027",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Vertical Semiconductor awarded $73m in CHIPS Act funding to support vGaN transistor development",
-      "link": "https://www.datacenterdynamics.com/en/news/vertical-semiconductor-awarded-73m-in-chips-act-funding-to-support-vgan-transistor-development/",
-      "published": "Fri, 23 Oct 2026 14:00:53 +0000",
-      "summary": "The agreement will see the Department of Commerce take a minority stake in the company",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Data center outage leaves Portugal's National Health Service without prescriptions",
-      "link": "https://www.datacenterdynamics.com/en/news/a-data-center-outage-leaves-portugals-sns-without-prescriptions/",
-      "published": "Fri, 23 Oct 2026 13:40:41 +0000",
-      "summary": "Affected services included National User Registry and the Electronic Medical Prescription (PEM), as well as access to Electronic Health Record",
-      "relevant": "True",
-      "reason": "Infrastructure mention"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Telefónica and IQM will install Madrid's first quantum computer",
-      "link": "https://www.datacenterdynamics.com/en/news/telefonica-and-iqm-to-install-madrids-first-quantum-computer/",
-      "published": "Fri, 23 Oct 2026 13:33:18 +0000",
-      "summary": "The project expands the collaboration between Telefónica and IQM, which have already supplied two quantum computers to the Galicia Supercomputing Center (CESGA)",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "InsurTech company Reliance Global Group to acquire GPU cloud company and pivot strategy",
-      "link": "https://www.datacenterdynamics.com/en/news/insurtech-company-reliance-global-group-to-acquire-gpu-cloud-company-and-pivot-strategy/",
-      "published": "Fri, 23 Oct 2026 13:30:34 +0000",
-      "summary": "Will rebrand as GPU Exchange",
-      "relevant": "False",
-      "reason": "No relevant keywords"
     },
     {
       "source": "Utility Dive",
@@ -418,42 +454,6 @@
       "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration.",
       "relevant": "False",
       "reason": "No relevant keywords"
-    },
-    {
-      "source": "Utility Dive",
-      "title": "Google supersizes PJM virtual power plant to more than 1 GW",
-      "link": "https://www.utilitydive.com/news/google-voltus-vpp-virtual-power-pjm/833717/",
-      "published": "Thu, 22 Oct 2026 10:42:49 -0400",
-      "summary": "Such contracts&nbsp;signal a turning point for distributed resources in energy markets, industry sources say. Demand response revenue in PJM jumped 240% from 2024 to 2025, reaching $523.6 million; emergency demand response accounted for 88% of that.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "Utility Dive",
-      "title": "Geothermal lease sale on federal land in Nevada nets $4.8M",
-      "link": "https://www.utilitydive.com/news/geothermal-lease-sale-blm-nevada-nextera/833603/",
-      "published": "Wed, 21 Oct 2026 11:29:28 -0400",
-      "summary": "An Interior Department auction for roughly 187,000 acres generated less per acre than a similar sale in the same state in 2025. Leases for two parcels that sold overlap with the site of a proposed NextEra solar farm.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "Utility Dive",
-      "title": "Solar PPA prices jump 5% in Q3, mainly on new trade tariffs: LevelTen",
-      "link": "https://www.utilitydive.com/news/tariffs-solar-wind-ppa-prices-levelten/833598/",
-      "published": "Wed, 21 Oct 2026 11:17:31 -0400",
-      "summary": "Wind power purchase agreements held relatively steady in Q3 but could begin to rise again as the latest round of tariffs takes effect later this year.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "Utility Dive",
-      "title": "The capacity market crisis is a design problem, not a verdict on competition",
-      "link": "https://www.utilitydive.com/news/capacity-market-crisis-design-problem-verdict-competition-pjm/833303/",
-      "published": "Wed, 21 Oct 2026 10:04:06 -0400",
-      "summary": "PJM's capacity price spikes are a symptom of a market that drifted too far toward spot-price dependence, not an indication that competition itself does not work, write Atlantic Council experts.",
-      "relevant": "True",
-      "reason": "Infrastructure mention"
     },
     {
       "source": "World Nuclear News",
