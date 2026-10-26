@@ -1,10 +1,37 @@
 {
-  "generated_utc": "2026-10-26T10:52:05.102952+00:00",
-  "generated_at_et": "2026-10-26T06:52:05.103137-04:00",
+  "generated_utc": "2026-10-26T22:28:53.921523+00:00",
+  "generated_at_et": "2026-10-26T18:28:53.921701-04:00",
   "total": 70,
-  "relevant": 22,
-  "filtered": 48,
+  "relevant": 26,
+  "filtered": 44,
   "articles": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "published": "Mon, 26 Oct 2026 16:49:42 +0000",
+      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "published": "Mon, 26 Oct 2026 16:46:36 +0000",
+      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic officially files for its public debut",
+      "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "published": "Mon, 26 Oct 2026 14:35:22 +0000",
+      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
@@ -34,6 +61,15 @@
     },
     {
       "source": "TechCrunch AI",
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "published": "Sat, 24 Oct 2026 20:15:33 +0000",
+      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "TechCrunch AI",
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "published": "Sat, 24 Oct 2026 19:00:00 +0000",
@@ -46,7 +82,7 @@
       "title": "Block’s new voice model sounds eerily human",
       "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
       "published": "Sat, 24 Oct 2026 16:00:00 +0000",
-      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "summary": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has.",
       "relevant": "False",
       "reason": "No relevant keywords"
     },
@@ -70,7 +106,7 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing ‘significant risks’",
       "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
       "published": "Fri, 23 Oct 2026 23:05:49 +0000",
       "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
@@ -133,15 +169,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Canva releases its first image generation model",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "published": "Thu, 22 Oct 2026 19:00:00 +0000",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
       "published": "Thu, 22 Oct 2026 19:00:00 +0000",
@@ -151,228 +178,210 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "published": "Thu, 22 Oct 2026 18:43:53 +0000",
-      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-      "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "published": "Thu, 22 Oct 2026 16:47:17 +0000",
-      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
-      "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "published": "Thu, 22 Oct 2026 16:00:00 +0000",
-      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Spotify’s current AI bet is about being the music service that agents choose",
-      "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-      "published": "Thu, 22 Oct 2026 15:03:58 +0000",
-      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+      "title": "Canva releases its first image generation model",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "published": "Thu, 22 Oct 2026 19:00:00 +0000",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
       "relevant": "False",
       "reason": "No relevant keywords"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "AWS plans to expand data center footprint in Montgomery County, Missouri",
-      "link": "https://www.datacenterdynamics.com/en/news/aws-plans-to-expand-data-center-footprint-in-montgomery-county-missouri/",
-      "published": "Mon, 26 Oct 2026 10:43:57 +0000",
-      "summary": "Also hosts open house to discuss plans in Posey County, Indiana",
+      "title": "Ecoblox partners with Rimac on modular data center solution",
+      "link": "https://www.datacenterdynamics.com/en/news/ecoblox-partners-with-rimac-on-modular-data-center-solution/",
+      "published": "Mon, 26 Oct 2026 17:30:24 +0000",
+      "summary": "First deployment slated for Rimac's campus in Kerestinec, Croatia",
       "relevant": "True",
       "reason": "Infrastructure mention"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Microsoft acquires 37 acres in Licking County, Ohio",
-      "link": "https://www.datacenterdynamics.com/en/news/microsoft-acquires-37-acres-in-licking-county-ohio/",
-      "published": "Mon, 26 Oct 2026 10:42:18 +0000",
-      "summary": "Company continues to expand its data center footprint in the region",
+      "title": "Cadence unveils Nvidia-powered AI data center in Munich, Germany",
+      "link": "https://www.datacenterdynamics.com/en/news/cadence-unveils-nvidia-powered-ai-data-center-in-munich-germany/",
+      "published": "Mon, 26 Oct 2026 17:17:15 +0000",
+      "summary": "Facility will support electronic design automation (EDA), simulation, and offer sovereign AI cloud services",
       "relevant": "True",
       "reason": "Infrastructure mention"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Tesla appoints new head of energy programs",
-      "link": "https://www.datacenterdynamics.com/en/news/tesla-appoints-new-head-of-energy-programs/",
-      "published": "Mon, 26 Oct 2026 10:33:00 +0000",
-      "summary": "Jessy Rivest joins the team",
+      "title": "Verizon signs $2bn AWS AI infrastructure deal",
+      "link": "https://www.datacenterdynamics.com/en/news/verizon-signs-2bn-aws-ai-infrastructure-deal/",
+      "published": "Mon, 26 Oct 2026 17:10:55 +0000",
+      "summary": "As carrier posts strong Q3 earnings",
       "relevant": "False",
       "reason": "No relevant keywords"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Daedalus supercomputer inaugurated in Greece",
-      "link": "https://www.datacenterdynamics.com/en/news/daedalus-supercomputer-inaugurated-in-greece/",
-      "published": "Mon, 26 Oct 2026 10:27:39 +0000",
-      "summary": "85 petaflops system features Nvidia H200s, housed in a repurposed building",
+      "title": "Sponsored: The next evolution of data center backup power",
+      "link": "https://www.datacenterdynamics.com/en/opinions/the-next-evolution-of-data-center-backup-power/",
+      "published": "Mon, 26 Oct 2026 17:05:00 +0000",
+      "summary": "Building flexibility from the engine up",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Anthropic files S-1 for IPO, with $417bn in compute commitments",
+      "link": "https://www.datacenterdynamics.com/en/news/anthropic-files-s-1-for-ipo-with-417bn-in-compute-commitments/",
+      "published": "Mon, 26 Oct 2026 16:45:52 +0000",
+      "summary": "Data center costs spread over the next 20 years",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "AWS capacity \"largely\" sold out in 2027, Amazon CEO claims",
+      "link": "https://www.datacenterdynamics.com/en/news/aws-capacity-largely-sold-out-in-2027-amazon-ceo-claims/",
+      "published": "Mon, 26 Oct 2026 16:30:32 +0000",
+      "summary": "\"A good chunk\" of 2028 pre-sold, although this doesn't include EC2",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "ZutaCore details new two-phase boiling technology for liquid-cooled data centers",
+      "link": "https://www.datacenterdynamics.com/en/news/zutacore-details-new-two-phase-boiling-technology-for-liquid-cooled-data-centers/",
+      "published": "Mon, 26 Oct 2026 16:15:35 +0000",
+      "summary": "New boiling design available in company's ultra-thing cold plate",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Fireworks to lease data center capacity in Dallas, Texas",
+      "link": "https://www.datacenterdynamics.com/en/news/fireworks-to-lease-data-center-capacity-in-dallas-texas/",
+      "published": "Mon, 26 Oct 2026 16:14:50 +0000",
+      "summary": "Company to lease capacity from Forum Markets/Edge Node venture",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Karman completes power orchestration pilot at NextGen data center in Montreal, Canada",
+      "link": "https://www.datacenterdynamics.com/en/news/karman-completes-power-orchestration-pilot-at-nextgen-data-center-in-montreal-canada/",
+      "published": "Mon, 26 Oct 2026 16:12:44 +0000",
+      "summary": "To extend software rollout across NextGen's European operations",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Theft of AI equipment hits $150m in 2026, with fraud responsible for 92% of incidents – report",
+      "link": "https://www.datacenterdynamics.com/en/news/theft-of-ai-equipment-hits-150m-in-2026-with-fraud-responsible-for-92-of-incidents-report/",
+      "published": "Mon, 26 Oct 2026 16:12:17 +0000",
+      "summary": "Reports of stolen data center equipment up 34 percent since 2024, cargo risk management firm Overhaul said",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Generative Bionics plans AI data center and humanoid robotics factory in Italy",
+      "link": "https://www.datacenterdynamics.com/en/news/humanoid-robot-factory-ai-data-center-generative-bionics-italy/",
+      "published": "Mon, 26 Oct 2026 16:05:04 +0000",
+      "summary": "Could form first part of physical AI factory network",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Cooler Master announces 2.5MW in-row CDU",
+      "link": "https://www.datacenterdynamics.com/en/news/cooler-master-announces-25mw-in-row-cdu/",
+      "published": "Mon, 26 Oct 2026 15:50:58 +0000",
+      "summary": "PC gaming company expands data center cooling lineup",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Navigating data centers' power-price conundrum",
+      "link": "https://www.datacenterdynamics.com/en/opinions/navigating-data-centers-power-price-conundrum/",
+      "published": "Mon, 26 Oct 2026 15:30:36 +0000",
+      "summary": "How do we run these assets without letting energy costs spiral out of control?",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "SpaceX secures $40bn in debt financing, Elon Musk says",
+      "link": "https://www.datacenterdynamics.com/en/news/spacex-secures-40bn-in-debt-financing-elon-musk-says/",
+      "published": "Mon, 26 Oct 2026 15:14:00 +0000",
+      "summary": "Billionaire neocloud boss also claims neocloud funding sources could be drying up",
       "relevant": "False",
       "reason": "No relevant keywords"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Kao Data to host CommonAI's AI Scaling Inference Lab at Harlow data center",
-      "link": "https://www.datacenterdynamics.com/en/news/kao-data-to-host-commonais-ai-scaling-inference-lab-at-harlow-data-center/",
-      "published": "Mon, 26 Oct 2026 10:24:04 +0000",
-      "summary": "Lab to host Nvidia and AMD hardware",
+      "title": "Rethinking coolant selection for modern and future cooling systems",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/rethinking-coolant-selection-for-modern-and-future-cooling-systems/",
+      "published": "Mon, 26 Oct 2026 14:47:04 +0000",
+      "summary": "Why additive chemistry is key to coolant performance, corrosion protection and long-term reliability in next-generation data center liquid cooling systems",
       "relevant": "True",
       "reason": "Infrastructure mention"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "HPE to send Spaceborne Computer-4 to the Moon",
-      "link": "https://www.datacenterdynamics.com/en/news/hpe-to-send-spaceborne-computer-4-to-the-moon/",
-      "published": "Mon, 26 Oct 2026 10:15:20 +0000",
-      "summary": "Compute module to be placed on Astrolab rover",
+      "title": "Bull awarded €40m to deliver HLRE-5 supercomputer to the German Climate Computing Center",
+      "link": "https://www.datacenterdynamics.com/en/news/bull-awarded-40m-to-deliver-hlre-5-supercomputer-to-the-german-climate-computing-center/",
+      "published": "Mon, 26 Oct 2026 14:45:12 +0000",
+      "summary": "System will be powered by Nvidia GB200 Superchips and Vera CPUs",
       "relevant": "False",
       "reason": "No relevant keywords"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Sponsored: Belimo strengthens global data center strategy with new Experience Center in the Americas",
-      "link": "https://www.datacenterdynamics.com/en/product-news/belimo-strengthens-global-data-center-strategy-with-new-experience-center-in-the-americas/",
-      "published": "Mon, 26 Oct 2026 08:00:00 +0000",
-      "summary": "New interactive space gives customers a rare opportunity to experience mission-critical cooling technologies through hands-on demonstrations and real-world applications",
-      "relevant": "True",
-      "reason": "Infrastructure mention"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: From monitoring to intelligence: Network transparency for the modern telco reality",
-      "link": "https://www.datacenterdynamics.com/en/marketwatch/from-monitoring-to-intelligence-network-transparency-for-the-modern-telco-reality/",
-      "published": "Mon, 26 Oct 2026 08:00:00 +0000",
-      "summary": "A supercharged network officer transforming data into a source of actionable intelligence for network and operations teams",
+      "title": "SWI launches AI cloud unit SWI Compute",
+      "link": "https://www.datacenterdynamics.com/en/news/swi-launches-ai-cloud-unit-swi-compute/",
+      "published": "Mon, 26 Oct 2026 14:42:50 +0000",
+      "summary": "Company launching with 30MW at group's planned Cambridge development",
       "relevant": "False",
       "reason": "No relevant keywords"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "The power behind AI: Data centers drive the demand for qualified electricians",
-      "link": "https://www.datacenterdynamics.com/en/opinions/the-power-behind-ai-data-centers-drive-the-demand-for-qualified-electricians/",
-      "published": "Sun, 25 Oct 2026 11:00:30 +0000",
-      "summary": "An insatiable demand for electricians",
+      "title": "Reserve Bank of India launches data center in Bhubaneswar, Odisha",
+      "link": "https://www.datacenterdynamics.com/en/news/reserve-bank-of-india-launches-data-center-in-bhubaneswar-odisha/",
+      "published": "Mon, 26 Oct 2026 14:39:48 +0000",
+      "summary": "700-rack facility to support primary data center in Navi Mumbai",
       "relevant": "True",
       "reason": "Infrastructure mention"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Georgia's Silk Cloud deploys Nvidia Blackwell Ultra GPUs",
-      "link": "https://www.datacenterdynamics.com/en/news/georgias-silk-cloud-deploys-nvidia-blackwell-ultra-gpus/",
-      "published": "Sat, 24 Oct 2026 13:00:21 +0000",
-      "summary": "UK-based Fuse Energy also brings GPU compute online for customers",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "SpaceXAI facing $6.1m fine in Mississippi for building data centers without securing correct permits",
-      "link": "https://www.datacenterdynamics.com/en/news/spacexai-data-center-mississippi-memphis-elon-musk/",
-      "published": "Sat, 24 Oct 2026 10:00:00 +0000",
-      "summary": "Elon Musk's firm will also be back in court over problematic gas turbines",
+      "title": "DCD Studio: Equipping an AI future with Adrian Guggisberg, ABB",
+      "link": "https://www.datacenterdynamics.com/en/videos/dcd-studio-equipping-an-ai-future-with-adrian-guggisberg-abb/",
+      "published": "Mon, 26 Oct 2026 14:05:24 +0000",
+      "summary": "Zachary Skidmore speaks with Adrian Guggisberg of ABB about powering gigawatt-scale AI data centers, 800VDC distribution, industry partnerships and grid stability",
       "relevant": "True",
       "reason": "Infrastructure mention"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Sponsored: GF completes LiquidCore portfolio with intelligent Multi Control Valve to maximize direct liquid cooling efficiency",
-      "link": "https://www.datacenterdynamics.com/en/product-news/gf-completes-liquidcore-portfolio-with-intelligent-multi-control-valve-to-maximize-direct-liquid-cooling-efficiency/",
-      "published": "Sat, 24 Oct 2026 07:00:00 +0000",
-      "summary": "The introduction of the Multi Control Valve serves as the vital active intelligence layer that completes GF’s single-source LiquidCore system offering",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Core Stack JV adds more data centers to €1bn Italy network",
-      "link": "https://www.datacenterdynamics.com/en/news/core-stack-jv-adds-more-data-centers-to-1bn-italy-network/",
-      "published": "Fri, 23 Oct 2026 16:10:43 +0000",
-      "summary": "Two facilities near Cremona and Verona are in advanced planning stages",
-      "relevant": "True",
-      "reason": "Infrastructure mention"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "New Libyan telecom firm to launch data center in 2027",
-      "link": "https://www.datacenterdynamics.com/en/news/new-libyan-telecom-firm-to-launch-data-center-in-2027/",
-      "published": "Fri, 23 Oct 2026 16:10:43 +0000",
-      "summary": "Installation of the Medusa subsea cable also progresses in Benghazi",
-      "relevant": "True",
-      "reason": "Infrastructure mention"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Crown Castle bullish on carrier spectrum deployment, says it can support SpaceX's terrestrial dreams",
-      "link": "https://www.datacenterdynamics.com/en/news/crown-castle-bullish-on-carrier-spectrum-deployment-says-it-can-support-spacexs-terrestrial-dreams/",
-      "published": "Fri, 23 Oct 2026 16:06:00 +0000",
-      "summary": "As the tower company sees an opportunity to support SpaceX's terrestrial rollout",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Actyus, Adequita, and Nethits launch fund for Edge data centers - report",
-      "link": "https://www.datacenterdynamics.com/en/news/actyus-adequita-and-nethits-launch-fund-for-edge-data-centers-report/",
-      "published": "Fri, 23 Oct 2026 16:04:12 +0000",
-      "summary": "The project focuses on smaller-scale infrastructure that brings computing closer to businesses and government agencies.",
-      "relevant": "True",
-      "reason": "Infrastructure mention"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Short seller bets against Csquare, says data center firm's shares are worthless",
-      "link": "https://www.datacenterdynamics.com/en/news/short-seller-bets-against-csquare-says-data-center-firms-shares-are-worthless/",
-      "published": "Fri, 23 Oct 2026 16:00:37 +0000",
-      "summary": "Concerns over portfolio and capital structure",
-      "relevant": "True",
-      "reason": "Infrastructure mention"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Meta details Ohio Prometheus data center campus, with first phase live",
-      "link": "https://www.datacenterdynamics.com/en/news/meta-details-ohio-prometheus-data-center-campus-with-first-phase-live/",
-      "published": "Fri, 23 Oct 2026 15:55:54 +0000",
-      "summary": "Has already been used to train Muse",
-      "relevant": "True",
-      "reason": "Infrastructure mention"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "ZTE unveils data center module designed for AI workloads",
-      "link": "https://www.datacenterdynamics.com/en/news/zte-unveils-data-center-module-designed-for-ai-workloads/",
-      "published": "Fri, 23 Oct 2026 15:53:43 +0000",
-      "summary": "Rack power within the module will range from 20kW to 60kW",
-      "relevant": "True",
-      "reason": "Infrastructure mention"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Nokia, ICEYE pair with Ukraine's Ministry of Defence on satellite cooperation",
-      "link": "https://www.datacenterdynamics.com/en/news/nokia-iceye-pair-with-ukraines-ministry-of-defence-on-satellite-cooperation/",
-      "published": "Fri, 23 Oct 2026 15:52:02 +0000",
-      "summary": "Comes amid strained tensions between Ukraine and SpaceX's Starlink",
+      "title": "Ukraine's Atesh attacks comms tower in Russia's Belgorod region",
+      "link": "https://www.datacenterdynamics.com/en/news/ukraines-atesh-attacks-comms-tower-in-russias-belgorod-region/",
+      "published": "Mon, 26 Oct 2026 13:47:18 +0000",
+      "summary": "The facility housed a repeater used by the Russian military for drones, says Atesh",
       "relevant": "False",
       "reason": "No relevant keywords"
     },
     {
       "source": "Utility Dive",
-      "title": "When does a BI value stop being the right number?",
-      "link": "https://www.utilitydive.com/spons/when-does-a-bi-value-stop-being-the-right-number/833425/",
-      "published": "Mon, 26 Oct 2026 05:00:00 -0400",
-      "summary": "For energy companies, the assumptions behind a BI value can change materially during the policy period.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
+      "title": "Wind turbine orders hit 2.8 GW in Q2 ahead of tax credit deadline: WoodMac",
+      "link": "https://www.utilitydive.com/news/wind-turbine-orders-hit-28-gw-in-q2-ahead-of-tax-credit-deadline-woodmac/872757/",
+      "published": "Mon, 26 Oct 2026 11:06:46 -0400",
+      "summary": "Overall, &ldquo;the U.S. wind industry remains on course to add 39 GW of onshore new-build capacity by 2030,&rdquo; the report said. &ldquo;More than half of the project pipeline from 2026 to 2028 is already operating or under construction, limiting near-term risk.&rdquo;",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Utility Dive",
+      "title": "Clean energy groups, states oppose MISO’s large load-generation study plan",
+      "link": "https://www.utilitydive.com/news/miso-large-load-lars-ferc-google-oms/849887/",
+      "published": "Mon, 26 Oct 2026 09:58:16 -0400",
+      "summary": "The grid operator&rsquo;s&nbsp;proposed fast-track for colocated load and generation lacks ratepayer protections and favors vertically integrated utilities over independent power producers, critics said. Utilities, including Duke and Entergy subsidiaries, voiced support for it.",
+      "relevant": "True",
+      "reason": "Infrastructure mention"
     },
     {
       "source": "Utility Dive",
@@ -400,6 +409,15 @@
       "summary": "The 2026 State of Grid Resilience report puts data behind the pressures utility leaders face as they strengthen resilience while balancing affordability and performance.",
       "relevant": "True",
       "reason": "Infrastructure mention"
+    },
+    {
+      "source": "Utility Dive",
+      "title": "When does a BI value stop being the right number?",
+      "link": "https://www.utilitydive.com/spons/when-does-a-bi-value-stop-being-the-right-number/833425/",
+      "published": "Mon, 26 Oct 2026 05:00:00 -0400",
+      "summary": "For energy companies, the assumptions behind a BI value can change materially during the policy period.",
+      "relevant": "False",
+      "reason": "No relevant keywords"
     },
     {
       "source": "Utility Dive",
@@ -434,33 +452,6 @@
       "link": "https://www.utilitydive.com/news/utilities-turn-to-ai-to-manage-rising-power-demand-from-ai/833627/",
       "published": "Thu, 22 Oct 2026 12:15:17 -0400",
       "summary": "Applications include maintenance prioritization and demand forecasting, but&nbsp;AI outputs that are uneven, or those that can&rsquo;t be audited, constrain broader deployment. &ldquo;Most utilities could not reconstruct what an AI system read, what it did and why,&rdquo; one expert told Utility Dive.",
-      "relevant": "True",
-      "reason": "AI + Energy nexus"
-    },
-    {
-      "source": "Utility Dive",
-      "title": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill",
-      "link": "https://www.utilitydive.com/news/trump-administration-asks-courts-to-revoke-permits-for-offshore-wind-farms/833735/",
-      "published": "Thu, 22 Oct 2026 11:26:51 -0400",
-      "summary": "Sen. Sheldon Whitehouse, D-R.I., one of the senators sponsoring the Bipartisan American Affordability and Jobs Act, said in a statement, &ldquo;This is how you blow up a permitting deal.&rdquo;",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "Utility Dive",
-      "title": "Jigar Shah blames the wrong target for rising electricity bills",
-      "link": "https://www.utilitydive.com/news/jigar-shah-electricity-bills-utility-profit-caruso/833188/",
-      "published": "Thu, 22 Oct 2026 11:00:00 -0400",
-      "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration.",
-      "relevant": "False",
-      "reason": "No relevant keywords"
-    },
-    {
-      "source": "World Nuclear News",
-      "title": "Bangladesh's Rooppur 1 achieves criticality",
-      "link": "https://www.world-nuclear-news.org/articles/bangladeshs-rooppur-1-achieves-criticality",
-      "published": "Mon, 12 Oct 2026 12:47:06 GMT",
-      "summary": "The first unit at Bangladesh's Rooppur Nuclear Power Plant achieved criticality - a self-sustaining nuclear reaction - at 15:34 on Sunday, 11 October. &nbsp;",
       "relevant": "True",
       "reason": "AI + Energy nexus"
     },
@@ -628,10 +619,19 @@
     },
     {
       "source": "World Nuclear News",
-      "title": "IAEA carries out fresh LTO review mission to Oskarshamn",
-      "link": "https://www.world-nuclear-news.org/articles/iaea-carries-out-fresh-lto-review-mission-to-oskarshamn",
-      "published": "Tue, 13 Oct 2026 09:06:19 GMT",
-      "summary": "The International Atomic Energy Agency team focused on aspects related to the safe Long Term Operation of Sweden's Oskarshamn 3 nuclear power unit during the visit, which followed a similar mission two years earlier. &nbsp;",
+      "title": "Preparations for advanced nuclear at ports should begin now, study concludes",
+      "link": "https://www.world-nuclear-news.org/articles/preparations-for-advanced-nuclear-at-ports-should-begin-now-study-concludes",
+      "published": "Mon, 26 Oct 2026 14:50:59 GMT",
+      "summary": "Ports should begin structured planning for advanced nuclear technology now, treating it as a long-term infrastructure and operating-model question rather than a new marine fuel, according to a new joint paper from the British Ports Association and Lloyd's Register. &nbsp;",
+      "relevant": "False",
+      "reason": "No relevant keywords"
+    },
+    {
+      "source": "World Nuclear News",
+      "title": "First reactor unit launched on <i>Chukotka</i> icebreaker",
+      "link": "https://www.world-nuclear-news.org/articles/first-reactor-unit-launched-on-chukotka-icebreaker",
+      "published": "Mon, 26 Oct 2026 15:09:12 GMT",
+      "summary": "The starboard reactor unit on the new Chukotka nuclear-powered icebreaker has been brought to minimum controlled power level. &nbsp;",
       "relevant": "False",
       "reason": "No relevant keywords"
     }
